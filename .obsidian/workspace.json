@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "WL 230-Change Stock Price & Consensus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "WL 230-Change Stock Price & Consensus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "WL 230-Change Stock Price & Consensus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md"
+                "file": "WL 230-Change Stock Price & Consensus.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "WL 220-Create Monitors from Orders.md",
     "WL 130-Assign Active Values to Orders.md",
     "Readme.md",
     "Snippets/Database Engine.md",
@@ -156,7 +157,6 @@
     "DL _Morn1 Batch.md",
     "DL _Market3 Batch.md",
     "DL _EXT3 Batch.md",
-    "DL _CDD5 Batch.md",
-    "DL __Night Process.md"
+    "DL _CDD5 Batch.md"
   ]
 }

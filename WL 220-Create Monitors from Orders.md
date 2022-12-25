@@ -5,4 +5,6 @@
 5. Outer merge with orders.
 6. Print out left only records to create Price html & insert stock names to `price-uploads.csv`.
 7. Expot from Stocks table to `stocks-all.csv`.
-8. 
+
+
+[[WL 230-Change Stock Price & Consensus]]
