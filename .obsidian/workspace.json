@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Pandas.md",
+    "Calculate Number of Business Days.md",
+    "Snippets/Calculate Number of Days.md",
+    "WL 230-Change Stock Price & Consensus.md",
     "WL 220-Create Monitors from Orders.md",
     "WL 130-Assign Active Values to Orders.md",
     "Readme.md",
     "Snippets/Database Engine.md",
     "Snippets/Data Path.md",
-    "DL 010-Morning Process NB.md",
-    "DL _Morn1 Batch.md",
-    "DL _Market3 Batch.md",
-    "DL _EXT3 Batch.md",
-    "DL _CDD5 Batch.md"
+    "DL 010-Morning Process NB.md"
   ]
 }
