@@ -7,3 +7,5 @@
 	"""
 	rp = conlite.execute(sqlUpd)
 	rp.rowcount
+
+#sql_updates
