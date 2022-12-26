@@ -1,6 +1,6 @@
 
 This is a test of git sync.
 
-Latest update at 11.03 of Dec 25.
+Auto push every 5 minutes when Obsidian opens.
 
 [YouTube](https://www.youtube.com/watch?v=h3oK1yX3CZ8&t=433s)

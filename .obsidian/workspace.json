@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 240-Change Stock Price with No Consensus data.md",
-                "mode": "source",
+                "file": "Readme.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 240-Change Stock Price with No Consensus data.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 240-Change Stock Price with No Consensus data.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 240-Change Stock Price with No Consensus data.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
-    "WL 230-Change Stock Price & Consensus.md",
     "WL 220-Create Monitors from Orders.md",
+    "WL 230-Change Stock Price & Consensus.md",
+    "WL 240-Change Stock Price with No Consensus data.md",
     "WL 130-Assign Active Values to Orders.md",
     "WL 120-Delete old & create new orders.md",
     "WL 080-Weekly Transactions.md",
     "WL 060-Update Market to Stocks.md",
     "WL 030-Consensus High Dividend.md",
     "WL 020-Price Comparison.md",
-    "WL 010-Consensus.md",
-    "NP 030-Profits.md"
+    "WL 010-Consensus.md"
   ]
 }
