@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md",
+                "file": "WL 240-Change Stock Price with No Consensus data.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md",
+                "file": "WL 240-Change Stock Price with No Consensus data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md",
+                "file": "WL 240-Change Stock Price with No Consensus data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 230-Change Stock Price & Consensus.md"
+                "file": "WL 240-Change Stock Price with No Consensus data.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
+    "WL 230-Change Stock Price & Consensus.md",
     "Snippets/SQL Update SQLite.md",
     "WL 060-Update Market to Stocks.md",
     "DL 230 Display Dailies by ChangePercent.md",
@@ -168,7 +169,6 @@
     "DL 210-Break-52-Weeks-HiLo.md",
     "Readme.md",
     "WL 220-Create Monitors from Orders.md",
-    "WL 230-Change Stock Price & Consensus.md",
     "WL 240-Change Stock Price with No Consensus data.md",
     "WL 130-Assign Active Values to Orders.md"
   ]

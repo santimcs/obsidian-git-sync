@@ -1,4 +1,4 @@
 
-Same as WL 240 but there is no consensus data.
+Same as WL-230 for stocks that have no consensus data.
 
 #BeautifulSoup
