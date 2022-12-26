@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL 220-Price in CSV Format.md",
+                "file": "WL 230-Change Stock Price & Consensus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL 220-Price in CSV Format.md",
+                "file": "WL 230-Change Stock Price & Consensus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL 220-Price in CSV Format.md",
+                "file": "WL 230-Change Stock Price & Consensus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL 220-Price in CSV Format.md"
+                "file": "WL 230-Change Stock Price & Consensus.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
-    "DL 210-Break-52-Weeks-HiLo.md",
-    "Snippets/Calculate Number of Business Days.md",
-    "DL __Daily Process.md",
-    "Readme.md",
-    "Snippets/Pandas.md",
-    "Snippets/Calculate Number of Days.md",
-    "WL 230-Change Stock Price & Consensus.md",
     "WL 220-Create Monitors from Orders.md",
     "WL 130-Assign Active Values to Orders.md",
-    "Snippets/Database Engine.md"
+    "WL 120-Delete old & create new orders.md",
+    "WL 080-Weekly Transactions.md",
+    "WL 060-Update Market to Stocks.md",
+    "WL 030-Consensus High Dividend.md",
+    "WL 020-Price Comparison.md",
+    "WL 010-Consensus.md",
+    "NP 030-Profits.md",
+    "NP 020-Dividend.md"
   ]
 }
