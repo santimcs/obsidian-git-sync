@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Calculate Number of Business Days.md",
-                "mode": "preview",
+                "file": "DL 220-Price in CSV Format.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Calculate Number of Business Days.md",
+                "file": "DL 220-Price in CSV Format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Calculate Number of Business Days.md",
+                "file": "DL 220-Price in CSV Format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Calculate Number of Business Days.md"
+                "file": "DL 220-Price in CSV Format.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL 210-Break-52-Weeks-HiLo.md",
+    "Snippets/Calculate Number of Business Days.md",
     "DL __Daily Process.md",
     "Readme.md",
     "Snippets/Pandas.md",
-    "Snippets/Calculate Number of Business Days.md",
     "Snippets/Calculate Number of Days.md",
     "WL 230-Change Stock Price & Consensus.md",
     "WL 220-Create Monitors from Orders.md",
     "WL 130-Assign Active Values to Orders.md",
-    "Snippets/Database Engine.md",
-    "Snippets/Data Path.md"
+    "Snippets/Database Engine.md"
   ]
 }

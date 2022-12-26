@@ -1,8 +1,8 @@
 1. Update SET index (manually input)
 
-2. Find 52 Weeks High stocks by compare today maximum prices with yesterday maximum prices from stocks table in PortPg database
+2. Find 52 Weeks High Stocks by compare today maximum prices with yesterday maximum prices from Stocks table in PortPg database
 
-3. Find 52 Weeks Low stocks by compare today minimum prices with yesterday minimum prices from stocks table in PortPg database
+3. Find 52 Weeks Low stocks by compare today minimum prices with yesterday minimum prices from Stocks table in PortPg database
 
 4. Find stocks with voume greater than 5 days average & output to 5-day-average.csv
 
