@@ -1,4 +1,4 @@
-1. Find market of Stock table from Stock table of PostgreSQL.  
+1. Find market of Stock table from PostgreSQL.  
 
 2.  Export dataframe to temporary table in SQLite.
 

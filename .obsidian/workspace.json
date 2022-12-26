@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md",
-                "mode": "preview",
+                "file": "WL 060-Update Market to Stocks.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md",
+                "file": "WL 060-Update Market to Stocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md",
+                "file": "WL 060-Update Market to Stocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md"
+                "file": "WL 060-Update Market to Stocks.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL 230 Display Dailies by ChangePercent.md",
     "DL 220-Price in CSV Format.md",
     "DL 210-Break-52-Weeks-HiLo.md",
     "Readme.md",
@@ -156,7 +157,6 @@
     "WL 240-Change Stock Price with No Consensus data.md",
     "WL 130-Assign Active Values to Orders.md",
     "WL 120-Delete old & create new orders.md",
-    "WL 080-Weekly Transactions.md",
-    "WL 060-Update Market to Stocks.md"
+    "WL 080-Weekly Transactions.md"
   ]
 }
