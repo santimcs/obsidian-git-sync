@@ -12,3 +12,5 @@
 	print(f'Month end: {month_end}')
 
 #dates 
+
+[Medium](https://medium.com/towards-data-science/3-not-so-common-pandas-tricks-you-should-know-b26cc7536291)
