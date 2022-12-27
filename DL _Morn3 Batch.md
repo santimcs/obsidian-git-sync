@@ -1,13 +1,7 @@
-CD//A8
+copy %cd%\data\consensus.csv c:\ruby\port_lite\db\
 
-## Morn3.bat
+cd\ruby\port_lite
 
-copy c:\\a8\\data\\consensus.csv c:\\ruby\\port_lite\\db\
-
-cd\\ruby\\port_lite
-
-rails runner db/[crt_consensus.rb](https://github.com/santimcs/port_lite/blob/master/db/crt_consensus.rb)
-
-CD\\A8
+rails runner db\crt_consensus.rb
 
 [[DL _Morn4 Batch]]
