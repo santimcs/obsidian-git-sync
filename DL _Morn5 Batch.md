@@ -1,12 +1,10 @@
-CD\\A8
-
-## MORN5.bat
-
-copy c:\\A8\\Data\\stocks.csv c:\\Ruby\\Portmy\\db\
-copy c:\\A8\\Data\\consensus.csv c:\\Ruby\\Portmy\\db\
-
-cd\\Ruby\\Portmy
-
-rails runner db/[crt_all.rb](https://github.com/santimcs/portmy/blob/main/db/crt_all.rb)
+	echo This batch file is in OneDrive
+	
+	copy %cd%\data\stocks.csv c:\ruby\portmy\db\
+	copy %cd%\data\consensus.csv c:\ruby\portmy\db\
+	
+	cd \ruby\portmy
+	
+	rails runner db\crt_all.rb
 
 [[DL 010-Morning Process NB]]
