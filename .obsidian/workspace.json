@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _CDD5 Batch.md",
+                "file": "Snippets/Sort table with nlargest, nsmallest.md",
                 "mode": "preview",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 464
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _CDD5 Batch.md",
+                "file": "Snippets/Sort table with nlargest, nsmallest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _CDD5 Batch.md",
+                "file": "Snippets/Sort table with nlargest, nsmallest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _CDD5 Batch.md"
+                "file": "Snippets/Sort table with nlargest, nsmallest.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
+    "Snippets/Pandas.md",
+    "Snippets/How to Read Dataset from GitHub.md",
+    "DL _CDD5 Batch.md",
     "DL _Market3 Batch.md",
     "DL _Morn5 Batch.md",
     "DL _Morn4 Batch.md",
     "DL _Morn3 Batch.md",
     "DL _Morn1 Batch.md",
     "DL _Nite6 Batch.md",
-    "DL _Nite5 Batch.md",
-    "DL _Nite4 Batch.md",
-    "DL _Nite3 Batch.md",
-    "DL _Nite2 Batch.md"
+    "DL _Nite5 Batch.md"
   ]
 }
