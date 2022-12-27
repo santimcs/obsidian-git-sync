@@ -1,6 +1,6 @@
 	echo %cd%
 	
-	ruby ruby/Read-Index.rb
+	ruby ruby\Read-Index.rb
 	
 	importSetindex.bat
 
