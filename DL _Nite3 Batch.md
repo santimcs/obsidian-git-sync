@@ -1,5 +1,5 @@
-ruby c:\\A8\\Ruby\\Read-Index.rb
-
-C:\\A8\\[ImportSetindex.bat](https://github.com/santimcs/A8/blob/main/ImportSetIndex.bat)
+	ruby ruby/Read-Index.rb
+	
+	importSetindex.bat
 
 [[DL _Nite4 Batch]]

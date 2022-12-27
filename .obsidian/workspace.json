@@ -161,6 +161,8 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
+    "DL _Nite3 Batch.md",
+    "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
     "Snippets/SQL Update SQLite.md",
     "WL 240-Change Stock Price with No Consensus data.md",
@@ -168,8 +170,6 @@
     "WL 060-Update Market to Stocks.md",
     "DL 230 Display Dailies by ChangePercent.md",
     "DL 220-Price in CSV Format.md",
-    "DL 210-Break-52-Weeks-HiLo.md",
-    "Readme.md",
-    "WL 220-Create Monitors from Orders.md"
+    "DL 210-Break-52-Weeks-HiLo.md"
   ]
 }
