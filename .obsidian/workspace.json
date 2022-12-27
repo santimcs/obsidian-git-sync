@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite1 Batch.md",
-                "mode": "source",
+                "file": "DL _Nite2 Batch.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite1 Batch.md",
+                "file": "DL _Nite2 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite1 Batch.md",
+                "file": "DL _Nite2 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite1 Batch.md"
+                "file": "DL _Nite2 Batch.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
+    "DL _Nite1 Batch.md",
     "Snippets/SQL Update SQLite.md",
     "WL 240-Change Stock Price with No Consensus data.md",
     "WL 230-Change Stock Price & Consensus.md",
@@ -169,7 +170,6 @@
     "DL 220-Price in CSV Format.md",
     "DL 210-Break-52-Weeks-HiLo.md",
     "Readme.md",
-    "WL 220-Create Monitors from Orders.md",
-    "WL 130-Assign Active Values to Orders.md"
+    "WL 220-Create Monitors from Orders.md"
   ]
 }
