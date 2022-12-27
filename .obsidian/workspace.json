@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite6 Batch.md",
-                "mode": "preview",
+                "file": "Snippets/Begin and end of month.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite6 Batch.md",
+                "file": "Snippets/Begin and end of month.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite6 Batch.md",
+                "file": "Snippets/Begin and end of month.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite6 Batch.md"
+                "file": "Snippets/Begin and end of month.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
+    "Snippets/Data Types Conversion.md",
+    "DL _Nite6 Batch.md",
     "DL _Nite5 Batch.md",
     "DL _Nite4 Batch.md",
     "DL _Nite3 Batch.md",
     "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
-    "DL _Nite6 Batch.md",
     "DL _Morn5 Batch.md",
     "DL _Morn4 Batch.md",
-    "DL _Morn3 Batch.md",
-    "DL _Morn1 Batch.md"
+    "DL _Morn3 Batch.md"
   ]
 }

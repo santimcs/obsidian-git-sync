@@ -6,3 +6,5 @@
 [[Drop Columns]]
 
 #dates 
+
+[Medium](https://medium.com/towards-data-science/4-python-pandas-functions-that-serve-better-with-dictionaries-bbfcc6c39fa5)
