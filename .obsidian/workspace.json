@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL 210-Break-52-Weeks-HiLo.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL 210-Break-52-Weeks-HiLo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL 210-Break-52-Weeks-HiLo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite4 Batch.md"
+                "file": "DL 210-Break-52-Weeks-HiLo.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL _Nite4 Batch.md",
     "DL _Nite3 Batch.md",
     "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
@@ -180,7 +181,6 @@
     "Snippets/Insert records into SQLite table.md",
     "DL 125-Orders - Short Version.md",
     "Snippets/Insert records into MySQL table.md",
-    "DL 110-Updae Buy & Dividend.md",
-    "DL _Market3 Batch.md"
+    "DL 110-Updae Buy & Dividend.md"
   ]
 }
