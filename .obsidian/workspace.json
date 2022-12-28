@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 060-Update Market to Stocks.md",
+                "file": "DL _Nite1 Batch.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "DL _Nite1 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "DL _Nite1 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Sidetable.md"
+                "file": "DL _Nite1 Batch.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "WL 060-Update Market to Stocks.md",
     "Snippets/Classify by Stock Market.md",
     "Snippets/Insert records into SQLite table.md",
     "DL 125-Orders - Short Version.md",
@@ -181,7 +181,6 @@
     "DL _Market3 Batch.md",
     "DL 010-Morning Process NB.md",
     "DL _Morn5 Batch.md",
-    "DL _Morn4 Batch.md",
-    "DL _Morn3 Batch.md"
+    "DL _Morn4 Batch.md"
   ]
 }
