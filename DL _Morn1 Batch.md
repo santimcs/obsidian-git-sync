@@ -10,8 +10,7 @@
 	cd \ruby\portpg
 	
 	rails runner db\crt_all.rb
-	
-	echo %cd%
+
 
 
 [[DL _Morn3 Batch]]
