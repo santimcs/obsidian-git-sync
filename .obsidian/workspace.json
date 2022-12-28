@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Insert records into SQLite table.md",
+                "file": "DL 125-Orders - Short Version.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Insert records into SQLite table.md",
+                "file": "DL 125-Orders - Short Version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Insert records into SQLite table.md",
+                "file": "DL 125-Orders - Short Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Insert records into SQLite table.md"
+                "file": "DL 125-Orders - Short Version.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
-    "Snippets/Insert records into MySQL table.md",
     "Snippets/Insert records into SQLite table.md",
+    "Snippets/Insert records into MySQL table.md",
     "DL 110-Updae Buy & Dividend.md",
     "DL _Market3 Batch.md",
     "DL 010-Morning Process NB.md",
