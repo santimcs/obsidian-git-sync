@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NP 010-Expenses.md",
+                "file": "DL _Morn1 Batch.md",
                 "mode": "preview",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464
+    "width": 230
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NP 010-Expenses.md",
+                "file": "DL _Morn1 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NP 010-Expenses.md",
+                "file": "DL _Morn1 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NP 010-Expenses.md"
+                "file": "DL _Morn1 Batch.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
+    "NP 010-Expenses.md",
     "Snippets/Begin and end of month.md",
     "Snippets/Data Types Conversion.md",
     "DL _Nite6 Batch.md",
@@ -169,7 +170,6 @@
     "DL _Nite3 Batch.md",
     "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
-    "DL _Morn5 Batch.md",
-    "DL _Morn4 Batch.md"
+    "DL _Morn5 Batch.md"
   ]
 }
