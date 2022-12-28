@@ -19,3 +19,6 @@ Select order data and output to monitors.csv file.
 
 [[DL 110-Updae Buy & Dividend]]
 
+#daily-sales
+
+
