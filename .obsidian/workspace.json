@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL 110-Updae Buy & Dividend.md",
-                "mode": "preview",
+                "file": "Snippets/Insert records into SQLite table.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 318.5
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL 110-Updae Buy & Dividend.md",
+                "file": "Snippets/Insert records into SQLite table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL 110-Updae Buy & Dividend.md",
+                "file": "Snippets/Insert records into SQLite table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL 110-Updae Buy & Dividend.md"
+                "file": "Snippets/Insert records into SQLite table.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "d5ff816a05dc3fac",
   "lastOpenFiles": [
+    "Snippets/Insert records into MySQL table.md",
+    "Snippets/Insert records into SQLite table.md",
+    "DL 110-Updae Buy & Dividend.md",
     "DL _Market3 Batch.md",
     "DL 010-Morning Process NB.md",
     "DL _Morn5 Batch.md",
     "DL _Morn4 Batch.md",
     "DL _Morn3 Batch.md",
     "DL _Morn1 Batch.md",
-    "NP 010-Expenses.md",
-    "Snippets/Begin and end of month.md",
-    "Snippets/Data Types Conversion.md",
-    "DL _Nite6 Batch.md"
+    "NP 010-Expenses.md"
   ]
 }

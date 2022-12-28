@@ -7,3 +7,6 @@
 	
 	rp = const.execute(sqlIns, rcd)
 	rp.rowcount
+
+
+[[Insert records into SQLite table]]
