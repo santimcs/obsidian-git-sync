@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite1 Batch.md",
+                "file": "DL _Nite4 Batch.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite1 Batch.md",
+                "file": "DL _Nite4 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite1 Batch.md",
+                "file": "DL _Nite4 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite1 Batch.md"
+                "file": "DL _Nite4 Batch.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL _Nite3 Batch.md",
+    "DL _Nite2 Batch.md",
+    "DL _Nite1 Batch.md",
     "WL 060-Update Market to Stocks.md",
     "Snippets/Classify by Stock Market.md",
     "Snippets/Insert records into SQLite table.md",
     "DL 125-Orders - Short Version.md",
     "Snippets/Insert records into MySQL table.md",
     "DL 110-Updae Buy & Dividend.md",
-    "DL _Market3 Batch.md",
-    "DL 010-Morning Process NB.md",
-    "DL _Morn5 Batch.md",
-    "DL _Morn4 Batch.md"
+    "DL _Market3 Batch.md"
   ]
 }
