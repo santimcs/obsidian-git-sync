@@ -1,7 +1,7 @@
 
 	import sidetable
 	
-	orders.stb.freq(["market"])
+	df.stb.freq(["period"], value="cost_amt")
 
 
 
