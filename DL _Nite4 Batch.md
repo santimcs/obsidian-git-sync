@@ -1,7 +1,7 @@
 	echo %cd%
 	
-	dlyout.bat
+	ruby ruby\daily-out.rb
 	
-	DLIES.bat
+	ruby ruby\d01-v2.rb
 
 [[DL _Nite5 Batch]]
