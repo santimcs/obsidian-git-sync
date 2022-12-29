@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "DL _Morn1 Batch.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "DL _Morn1 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "DL _Morn1 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Sidetable.md"
+                "file": "DL _Morn1 Batch.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Sidetable.md",
     "AH 050-Amount by Period - Ext.md",
     "AH 040-Amount by Period.md",
     "DL 210-Break-52-Weeks-HiLo.md",
@@ -180,7 +181,6 @@
     "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
     "WL 060-Update Market to Stocks.md",
-    "Snippets/Classify by Stock Market.md",
-    "Snippets/Insert records into SQLite table.md"
+    "Snippets/Classify by Stock Market.md"
   ]
 }
