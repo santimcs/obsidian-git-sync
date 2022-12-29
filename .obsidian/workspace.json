@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "32e8ca512a281b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Groupby.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5ff816a05dc3fac",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Morn5 Batch.md",
+                "file": "Snippets/Groupby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Morn5 Batch.md",
+                "file": "Snippets/Groupby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Morn5 Batch.md"
+                "file": "Snippets/Groupby.md"
               }
             }
           }
@@ -170,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ce22d41495a19e",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
+    "DL _Morn5 Batch.md",
     "DL _Morn4 Batch.md",
     "DL _Morn3 Batch.md",
     "DL _Morn1 Batch.md",
@@ -180,7 +194,6 @@
     "AH 040-Amount by Period.md",
     "DL 210-Break-52-Weeks-HiLo.md",
     "DL _Nite4 Batch.md",
-    "DL _Nite3 Batch.md",
-    "DL _Nite2 Batch.md"
+    "DL _Nite3 Batch.md"
   ]
 }
