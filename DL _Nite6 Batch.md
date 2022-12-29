@@ -1,4 +1,4 @@
-	ruby ruby\D01-V2.rb
+	ruby ruby\d01-v2.rb
 	
 	echo %cd%
 
