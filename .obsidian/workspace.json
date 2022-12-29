@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Morn5 Batch.md",
+                "file": "DL _Nite1 Batch.md",
                 "mode": "preview",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "DL _Nite1 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "DL _Nite1 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Groupby.md"
+                "file": "DL _Nite1 Batch.md"
               }
             }
           }
@@ -183,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "95ce22d41495a19e",
   "lastOpenFiles": [
     "DL _Morn5 Batch.md",
     "DL _Morn4 Batch.md",
