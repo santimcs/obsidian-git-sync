@@ -1,5 +1,6 @@
 			from pandas.tseries.offsets import BDay
 			
+			today = date.today()
 			num_business_days = BDay(1)
 			yesterday = today - num_business_days
 			yesterday = yesterday.date()
