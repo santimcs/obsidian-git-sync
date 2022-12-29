@@ -1,3 +1,10 @@
+			from pandas.tseries.offsets import BDay
+			
+			num_business_days = BDay(1)
+			yesterday = today - num_business_days
+			yesterday = yesterday.date()
+			today, yesterday
+			
 			# For each row in the DataFrame, generate a series of dates between the start and end dates
 			df['dates'] = df.apply(lambda x: pd.date_range(x['fm_date'], x['to_date']), axis=1)
 			
