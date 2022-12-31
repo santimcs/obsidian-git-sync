@@ -134,7 +134,17 @@
 
 	Weekly process
 
-	1. 
+	1. 010-Consensus
+	2. 020-Price Comparison
+	3. 030-Consensus High Dividend
+	4. 060-Update Market to Stocks
+	5. 080-Weekly Transactions
+	6. 120-Delete & Create Orders
+	7. 130-Assign Active Value to Orders
+	8. 220-Create Monitors from Orders
+	9. 225-Create Moniors from Stocks in Port
+	10. 230-Change Stock Price & Consensus
+	11. 240-Change Stock Price-No Consensus
 	
 
 [YouTube](https://www.youtube.com/watch?v=h3oK1yX3CZ8&t=433s)
