@@ -12,3 +12,9 @@
 	df['x'] = df['x'].apply(to_currency)
 	
 	print(df)
+
+	df['x'] = df['x'].map('${:,.2f}'.format)
+	print(df)
+
+
+[[Format PortLite]]
