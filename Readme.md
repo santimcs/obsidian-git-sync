@@ -131,6 +131,10 @@
 	6. 920-Dividend Q2
 	7. 930-Dividend Q3
 	8. 940-Dividend Q4
+
+	Weekly process
+
+	1. 
 	
 
 [YouTube](https://www.youtube.com/watch?v=h3oK1yX3CZ8&t=433s)
