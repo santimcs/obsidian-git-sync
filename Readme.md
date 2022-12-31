@@ -122,7 +122,15 @@
 	10. 270-Daily Output
 
 	Ad hoc process
+	
 	1. 040-Amount by Period
-	2. 050-Amount by Period 
+	2. 050-Amount by Period - Ext
+	3. 055-Profit & Balance by Market
+	4. 070-Recalculate Cost When Unit...
+	5. 910-Dividend Q1
+	6. 920-Dividend Q2
+	7. 930-Dividend Q3
+	8. 940-Dividend Q4
+	
 
 [YouTube](https://www.youtube.com/watch?v=h3oK1yX3CZ8&t=433s)
