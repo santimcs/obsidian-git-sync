@@ -3,9 +3,9 @@
 
 ## One time only
 
-1.  Create repository A7  
+Create repository A7  
 
-2. Create folder A7 under OneDrive
+Create folder A7 under OneDrive
 
 		 git init
 		 Add Readme.md
@@ -16,7 +16,7 @@
 		 git branch -M main
 		 git push -u origin main
 		
-3. Copy batch files to A7
+Batch files in A7 Folder
 
 	1. CDD1
 	2. CDD2
@@ -50,7 +50,7 @@
 	30. Upper.bat
 	31. Upr-Dly.bat
 
-5. Copy csv files to Data folder
+CSV files in Data folder
 
 	1. 5-day-average
 	2. buy-div-price
@@ -72,7 +72,7 @@
 	18. price
 	19. price-uploads
 
-6. Copy ruby programs to Ruby folder
+Ruby programs in Ruby folder
 
 	1. rank-div-market
 	2. setindex
@@ -108,7 +108,7 @@
 	32. stock_inq
 	33. Copy Daily process
 
-	Daily process
+Daily process
 	
 	1. 120-Orders
 	2. 125-Orders - Short Version
@@ -121,7 +121,7 @@
 	9. 260-Sell Alert
 	10. 270-Daily Output
 
-	Ad hoc process
+Ad hoc process
 	
 	1. 040-Amount by Period
 	2. 050-Amount by Period - Ext
@@ -132,7 +132,7 @@
 	7. 930-Dividend Q3
 	8. 940-Dividend Q4
 
-	Weekly process
+Weekly process
 
 	1. 010-Consensus
 	2. 020-Price Comparison
