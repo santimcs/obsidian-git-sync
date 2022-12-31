@@ -17,6 +17,7 @@
 		 git push -u origin main
 		
 3. Copy batch files to A7
+
 	1. CDD1
 	2. CDD2
 	3. CDD3
@@ -48,62 +49,65 @@
 	29. Ord-Log.bat
 	30. Upper.bat
 	31. Upr-Dly.bat
-4. Copy csv files to Data folder
-5. 5-day-average
-6. buy-div-price
-7. consensus
-8. consensus-ORD
-9. css-hi-div
-10. dailies
-11. daily_out
-12. daily-sales
-13. daily-watch-list
-14. extremes
-15. hi-dividend
-16. monitors
-17. name-temp
-18. name-tmp
-19. name-ttl
-20. orders
-21. orders-log
-22. price
-23. price-uploads
-24. Copy ruby programs to Ruby folder
-1 . 010-Morning Process
-2 . 110-Update Buy and Dividend...
-20. rank-div-market
-21. setindex
-22. spd_dly
-23. stocks
-24. stocks-all
-25. temp
-26. yearly-price-by-name
-27. ytd-profit
-28. name-ttl.xlsx
-29. name-xtr.xlsx
-1. candidate
-2. crt-consensus-fm-iaa
-3. crt-prices-fm-p01
-4. crt-prices-xtr
-5. crt-stock-lower
-6. crt-stock-lower-dly
-7. crt-stocks-fm-fs
-8. crt-stocks-fm-xtr
-9. crt-stock-upper
-10. crt-stock-upper-dly
-11. crt-tickers-fm-fs
-12. crt-tickers-fm-xtr
-13. d01-v2
-14. daily-out
-15. extreme
-16. market-all
-17. market-loop
-18. my_utils
-19. order-log
-20. read-index
-21. spread_crt
-22. stock_inq
-1. Copy Daily process
+
+5. Copy csv files to Data folder
+
+	1. 5-day-average
+	2. buy-div-price
+	3. consensus
+	4. consensus-ORD
+	5. css-hi-div
+	6. dailies
+	7. daily_out
+	8. daily-sales
+	9. daily-watch-list
+	10. extremes
+	11. hi-dividend
+	12. monitors
+	13. name-temp
+	14. name-tmp
+	15. name-ttl
+	16. orders
+	17. orders-log
+	18. price
+	19. price-uploads
+
+6. Copy ruby programs to Ruby folder
+
+	1. rank-div-market
+	2. setindex
+	3. spd_dly
+	4. stocks
+	5. stocks-all
+	6. temp
+	7. yearly-price-by-name
+	8. ytd-profit
+	9. name-ttl.xlsx
+	10. name-xtr.xlsx
+	11. candidate
+	12. crt-consensus-fm-iaa
+	13. crt-prices-fm-p01
+	14. crt-prices-xtr
+	15. crt-stock-lower
+	16. crt-stock-lower-dly
+	17. crt-stocks-fm-fs
+	18. crt-stocks-fm-xtr
+	19. crt-stock-upper
+	20. crt-stock-upper-dly
+	21. crt-tickers-fm-fs
+	22. crt-tickers-fm-xtr
+	23. d01-v2
+	24. 
+	25. daily-out
+	26. extreme
+1. market-all
+2. market-loop
+3. my_utils
+4. order-log
+5. read-index
+6. spread_crt
+7. stock_inq
+8. Copy Daily process
 Routine process
 3. 120-Orders
 4. 125-Orders - Short Version
