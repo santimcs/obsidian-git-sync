@@ -121,4 +121,8 @@
 	9. 260-Sell Alert
 	10. 270-Daily Output
 
+	Ad hoc process
+	1. 040-Amount by Period
+	2. 050-Amount by Period 
+
 [YouTube](https://www.youtube.com/watch?v=h3oK1yX3CZ8&t=433s)
