@@ -97,27 +97,28 @@
 	21. crt-tickers-fm-fs
 	22. crt-tickers-fm-xtr
 	23. d01-v2
-	24. 
-	25. daily-out
-	26. extreme
-1. market-all
-2. market-loop
-3. my_utils
-4. order-log
-5. read-index
-6. spread_crt
-7. stock_inq
-8. Copy Daily process
-Routine process
-3. 120-Orders
-4. 125-Orders - Short Version
-5. 160-Calculate Desired Purchase...
-6. 210-Break 52 Weeks High
-7. 220-Price in CSV format
-8. 225-Window Dressing
-9. 230-Display Dailies by Change...
-10. 250-Buy Alert
-11. 260-Sell Alert
-12. 270-Daily Output
+	24. daily-out
+	25. extreme
+	26. market-all
+	27. market-loop
+	28. my_utils
+	29. order-log
+	30. read-index
+	31. spread_crt
+	32. stock_inq
+	33. Copy Daily process
+
+	Daily process
+	
+	1. 120-Orders
+	2. 125-Orders - Short Version
+	3. 160-Calculate Desired Purchase...
+	4. 210-Break 52 Weeks High
+	5. 220-Price in CSV format
+	6. 225-Window Dressing
+	7. 230-Display Dailies by Change...
+	8. 250-Buy Alert
+	9. 260-Sell Alert
+	10. 270-Daily Output
 
 [YouTube](https://www.youtube.com/watch?v=h3oK1yX3CZ8&t=433s)
