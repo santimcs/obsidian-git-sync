@@ -12,4 +12,6 @@
 	    'cost':'{:.2f}','buy_target':'{:.2f}','sell_target':'{:.2f}',
 	}
 
+[[Format Currency]]
+
 [[Calculate Number of Days]]
