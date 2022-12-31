@@ -7,14 +7,14 @@ Create repository A7
 
 Create folder A7 under OneDrive
 
-		 git init
-		 Add Readme.md
-		 git status
-		 git add Readme.md
-		 git commit -m "Initial commit"
-		 git remote add origin https://github.com/santimcs/A7.git
-		 git branch -M main
-		 git push -u origin main
+	 git init
+	 Add Readme.md
+	 git status
+	 git add Readme.md
+	 git commit -m "Initial commit"
+	 git remote add origin https://github.com/santimcs/A7.git
+	 git branch -M main
+	 git push -u origin main
 		
 Batch files in A7 Folder
 
