@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Market3 Batch.md",
-                "mode": "preview",
+                "file": "Readme.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Market3 Batch.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Market3 Batch.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Market3 Batch.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL _Morn1 Batch.md",
+    "DL _Market3 Batch.md",
     "DL 010-Morning Process NB.md",
     "DL _Ord-Log Batch.md",
     "DL _Nite6 Batch.md",
@@ -155,8 +157,6 @@
     "DL _Nite4 Batch.md",
     "DL _Nite3 Batch.md",
     "DL _Nite2 Batch.md",
-    "DL _Nite1 Batch.md",
-    "DL _Morn5 Batch.md",
-    "DL _Morn4 Batch.md"
+    "DL _Nite1 Batch.md"
   ]
 }
