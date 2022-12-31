@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Snippets/Begin and end of month.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 341
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Snippets/Begin and end of month.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Snippets/Begin and end of month.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Snippets/Begin and end of month.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Readme.md",
     "DL _Morn1 Batch.md",
     "DL _Market3 Batch.md",
     "DL 010-Morning Process NB.md",
@@ -156,7 +157,6 @@
     "DL _Nite5 Batch.md",
     "DL _Nite4 Batch.md",
     "DL _Nite3 Batch.md",
-    "DL _Nite2 Batch.md",
-    "DL _Nite1 Batch.md"
+    "DL _Nite2 Batch.md"
   ]
 }
