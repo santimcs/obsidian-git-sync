@@ -4,74 +4,71 @@
 ## One time only
 
 1.  Create repository A7  
-2. 
-	git remote add origin https://github.com/santimcs/A7.git
-	git branch -M main
-	git push -u origin main
-	
-1. Create folder A7 under OneDrive
+
+2. Create folder A7 under OneDrive
 
 		 git init
 		 Add Readme.md
 		 git status
 		 git add Readme.md
 		 git commit -m "Initial commit"
+		 git remote add origin https://github.com/santimcs/A7.git
+		 git branch -M main
+		 git push -u origin main
 		
-
-2. From folder A7
 3. Copy batch files to A7
-4. CDD1
-5. CDD2
-6. CDD3
-7. CDD4
-8. CDD5
-9. DlyOut
-10. Ext3
-11. Ext4
-12. Ext5
-13. ImportPrice
-14. ImportSetIndex
-15. ImportSpd_Dly
-16. Inq
-17. Lower
-18. Lwr-Dly
-19. Market0
-20. Market1
-21. Market2
-22. Market3
-23. Morn1
-24. Morn3
-25. Morn4
-26. Morn5
-27. Nite1
-28. Nite2
-29. Nite3
-30. Nite4
-31. Nite5
-32. Ord-Log.bat
-33. Upper.bat
-34. Upr-Dly.bat
-35. Copy csv files to Data folder
-36. 5-day-average
-37. buy-div-price
-38. consensus
-39. consensus-ORD
-40. css-hi-div
-41. dailies
-42. daily_out
-43. daily-sales
-44. daily-watch-list
-45. extremes
-46. hi-dividend
-47. monitors
-48. name-temp
-49. name-tmp
-50. name-ttl
-51. orders
-52. orders-log
-53. price
-54. price-uploads
-55. Copy ruby programs to Ruby folder
+	1. CDD1
+	2. CDD2
+	3. CDD3
+	4. CDD4
+	5. CDD5
+	6. DlyOut
+	7. Ext3
+	8. Ext4
+	9. Ext5
+	10. ImportPrice
+	11. ImportSetIndex
+	12. ImportSpd_Dly
+	13. Inq
+	14. Lower
+	15. Lwr-Dly
+	16. Market0
+	17. Market1
+	18. Market2
+	19. Market3
+	20. Morn1
+	21. Morn3
+	22. Morn4
+	23. Morn5
+	24. Nite1
+	25. Nite2
+	26. Nite3
+	27. Nite4
+	28. Nite5
+	29. Ord-Log.bat
+	30. Upper.bat
+	31. Upr-Dly.bat
+4. Copy csv files to Data folder
+5. 5-day-average
+6. buy-div-price
+7. consensus
+8. consensus-ORD
+9. css-hi-div
+10. dailies
+11. daily_out
+12. daily-sales
+13. daily-watch-list
+14. extremes
+15. hi-dividend
+16. monitors
+17. name-temp
+18. name-tmp
+19. name-ttl
+20. orders
+21. orders-log
+22. price
+23. price-uploads
+24. Copy ruby programs to Ruby folder
 1 . 010-Morning Process
 2 . 110-Update Buy and Dividend...
 20. rank-div-market
