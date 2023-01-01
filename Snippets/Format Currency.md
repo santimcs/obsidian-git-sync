@@ -16,5 +16,9 @@
 	df['x'] = df['x'].map('${:,.2f}'.format)
 	print(df)
 
+	float_formatter = "฿{:,.2f}"
+	lt_amt = lt_stocks.cost_amt.sum()
+	float_formatter.format(lt_amt)
+
 
 [[Format PortLite]]
