@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md",
+                "file": "Snippets/Data Path.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md",
+                "file": "Snippets/Data Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md",
+                "file": "Snippets/Data Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md"
+                "file": "Snippets/Data Path.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Export DF to CSV Files.md",
     "Snippets/Format PortLite.md",
     "Snippets/Sidetable.md",
     "Snippets/Rename Columns.md",
@@ -156,7 +157,6 @@
     "Snippets/Calculate Number of Business Days.md",
     "Readme.md",
     "Snippets/Begin and end of month.md",
-    "DL _Morn1 Batch.md",
-    "DL _Market3 Batch.md"
+    "DL _Morn1 Batch.md"
   ]
 }
