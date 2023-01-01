@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md",
+                "file": "Snippets/Sidetable.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md",
+                "file": "Snippets/Sidetable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md",
+                "file": "Snippets/Sidetable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md"
+                "file": "Snippets/Sidetable.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Classify by Stock Market.md",
     "Snippets/Data Path.md",
     "Snippets/Export DF to CSV Files.md",
     "Snippets/Format PortLite.md",
@@ -156,7 +157,6 @@
     "Snippets/Data Types Conversion.md",
     "Snippets/Format Currency.md",
     "Snippets/Calculate Number of Business Days.md",
-    "Readme.md",
-    "Snippets/Begin and end of month.md"
+    "Readme.md"
   ]
 }
