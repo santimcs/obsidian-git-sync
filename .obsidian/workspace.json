@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Rename Columns.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341
+    "width": 236.5
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Rename Columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Rename Columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Format Currency.md"
+                "file": "Snippets/Rename Columns.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Data Types Conversion.md",
+    "Snippets/Format Currency.md",
     "Snippets/Sidetable.md",
     "Snippets/Calculate Number of Business Days.md",
-    "Snippets/Format Currency.md",
     "Readme.md",
     "Snippets/Format PortLite.md",
     "Snippets/Begin and end of month.md",
     "DL _Morn1 Batch.md",
     "DL _Market3 Batch.md",
-    "DL 010-Morning Process NB.md",
-    "DL _Ord-Log Batch.md"
+    "DL 010-Morning Process NB.md"
   ]
 }
