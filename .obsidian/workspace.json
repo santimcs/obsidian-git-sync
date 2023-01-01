@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Format PortLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Format PortLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Format PortLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Sidetable.md"
+                "file": "Snippets/Format PortLite.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Sidetable.md",
     "Snippets/Rename Columns.md",
     "Snippets/Data Types Conversion.md",
     "Snippets/Format Currency.md",
-    "Snippets/Sidetable.md",
     "Snippets/Calculate Number of Business Days.md",
     "Readme.md",
     "Snippets/Format PortLite.md",
