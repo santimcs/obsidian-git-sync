@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Groupby.md"
+                "file": "Snippets/Data Types Conversion.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Groupby.md",
     "Snippets/Sidetable.md",
     "Snippets/Classify by Stock Market.md",
     "Snippets/Data Path.md",
@@ -156,7 +157,6 @@
     "Snippets/Rename Columns.md",
     "Snippets/Data Types Conversion.md",
     "Snippets/Format Currency.md",
-    "Snippets/Calculate Number of Business Days.md",
-    "Readme.md"
+    "Snippets/Calculate Number of Business Days.md"
   ]
 }
