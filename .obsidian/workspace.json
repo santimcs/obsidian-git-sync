@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Groupby.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Groupby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Groupby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Sidetable.md"
+                "file": "Snippets/Groupby.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/Sidetable.md",
     "Snippets/Classify by Stock Market.md",
     "Snippets/Data Path.md",
     "Snippets/Export DF to CSV Files.md",
     "Snippets/Format PortLite.md",
-    "Snippets/Sidetable.md",
     "Snippets/Rename Columns.md",
     "Snippets/Data Types Conversion.md",
     "Snippets/Format Currency.md",

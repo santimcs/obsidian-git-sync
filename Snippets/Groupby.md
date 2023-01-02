@@ -11,3 +11,5 @@
 	monthly.sum().style.format(format_dict)
 
 [Medium](https://medium.com/gitconnected/how-to-use-groupby-effectively-as-a-data-scientist-9e1d931e1619)
+
+[Medium2](https://medium.com/towards-data-science/all-pandas-groupby-you-should-know-for-grouping-data-and-performing-operations-2a8ec1327b5)
