@@ -1,3 +1,7 @@
+	
+	
+	
+	
 	cols = 'fm_date to_date fm_price to_price qty max_price min_price percent status'.split()
 	
 	format_dict = {
@@ -7,10 +11,11 @@
 	    'pct':'{:,.2f}%','percent':'{:,.2f}%',   
 	    'fm_date':'{:%Y-%m-%d}','to_date':'{:%Y-%m-%d}',
 	    'created_at':'{:%Y-%m-%d}','updated_at':'{:%Y-%m-%d}',
-	    
 	    'qty':'{:,}','available_qty':'{:,}',
 	    'cost':'{:.2f}','buy_target':'{:.2f}','sell_target':'{:.2f}',
 	}
+
+	df.style.format(format_dict)
 
 [[Format Currency]]
 
