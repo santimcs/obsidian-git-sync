@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Groupby.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Groupby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Sidetable.md",
+                "file": "Snippets/Groupby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Sidetable.md"
+                "file": "Snippets/Groupby.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "Snippets/Sidetable.md",
     "Query.md",
     "Snippets/SQL Update SQLite.md",
     "DL 230 Display Dailies by ChangePercent.md",
@@ -169,7 +170,6 @@
     "DL _Morn1 Batch.md",
     "Snippets/Format Currency.md",
     "Snippets/Format PortLite.md",
-    "Snippets/How to Read Dataset from GitHub.md",
-    "Snippets/Groupby.md"
+    "Snippets/How to Read Dataset from GitHub.md"
   ]
 }

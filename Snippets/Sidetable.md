@@ -11,9 +11,9 @@
 
 	```
 			A	B	percent	cumulative_B	cumulative_percent
-					0	Three	24	60.0	24	60.0
-					1    Two	    15	37.5	39	97.5
-					2	One  	1	2.5	    40	100.0
+	0	Three	24	60.0	24	60.0
+	1 Two	    15	37.5	39	97.5
+	2	One  	1	2.5	    40	100.0
 	```
 
 
