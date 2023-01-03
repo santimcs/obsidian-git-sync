@@ -8,3 +8,5 @@
 
 
 [[AH 040-Amount by Period]]
+
+#dailies

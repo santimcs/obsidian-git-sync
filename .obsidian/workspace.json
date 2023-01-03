@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL 230 Display Dailies by ChangePercent.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL 230 Display Dailies by ChangePercent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL 230 Display Dailies by ChangePercent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite4 Batch.md"
+                "file": "DL 230 Display Dailies by ChangePercent.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
-    "DL _Nite5 Batch.md",
     "DL _Nite4 Batch.md",
+    "DL _Nite5 Batch.md",
     "DL _Morn1 Batch.md",
     "Snippets/Format Currency.md",
     "Snippets/Format PortLite.md",
