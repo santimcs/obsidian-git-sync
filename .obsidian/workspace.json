@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md",
+                "file": "Snippets/SQL Update SQLite.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "638586a61c906e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Query.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md",
+                "file": "Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md",
+                "file": "Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL 230 Display Dailies by ChangePercent.md"
+                "file": "Query.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ce22d41495a19e",
+  "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "Snippets/SQL Update SQLite.md",
+    "DL 230 Display Dailies by ChangePercent.md",
     "DL _Nite4 Batch.md",
     "DL _Nite5 Batch.md",
     "DL _Morn1 Batch.md",
@@ -155,8 +170,6 @@
     "Snippets/Format PortLite.md",
     "Snippets/How to Read Dataset from GitHub.md",
     "Snippets/Groupby.md",
-    "Snippets/Insert records into SQLite table.md",
-    "Snippets/Insert records into MySQL table.md",
-    "Snippets/Data Types Conversion.md"
+    "Snippets/Insert records into SQLite table.md"
   ]
 }
