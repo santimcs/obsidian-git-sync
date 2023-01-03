@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "DL _Nite4 Batch.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 337.5
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "DL _Nite4 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "DL _Nite4 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Format PortLite.md"
+                "file": "DL _Nite4 Batch.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL _Nite5 Batch.md",
+    "DL _Nite4 Batch.md",
+    "DL _Morn1 Batch.md",
     "Snippets/Format Currency.md",
     "Snippets/Format PortLite.md",
-    "Snippets/Data Types Conversion.md",
+    "Snippets/How to Read Dataset from GitHub.md",
     "Snippets/Groupby.md",
-    "Snippets/Sidetable.md",
-    "Snippets/Classify by Stock Market.md",
-    "Snippets/Data Path.md",
-    "Snippets/Export DF to CSV Files.md",
-    "Snippets/Rename Columns.md",
-    "Snippets/Calculate Number of Business Days.md"
+    "Snippets/Insert records into SQLite table.md",
+    "Snippets/Insert records into MySQL table.md",
+    "Snippets/Data Types Conversion.md"
   ]
 }
