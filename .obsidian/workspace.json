@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Query.md",
+                "file": "Snippets/Sidetable.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Query.md",
+                "file": "Snippets/Sidetable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Query.md",
+                "file": "Snippets/Sidetable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Query.md"
+                "file": "Snippets/Sidetable.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "Query.md",
     "Snippets/SQL Update SQLite.md",
     "DL 230 Display Dailies by ChangePercent.md",
     "DL _Nite4 Batch.md",
@@ -169,7 +170,6 @@
     "Snippets/Format Currency.md",
     "Snippets/Format PortLite.md",
     "Snippets/How to Read Dataset from GitHub.md",
-    "Snippets/Groupby.md",
-    "Snippets/Insert records into SQLite table.md"
+    "Snippets/Groupby.md"
   ]
 }
