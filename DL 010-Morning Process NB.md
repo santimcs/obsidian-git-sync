@@ -1,6 +1,6 @@
 Start XAMPP control
 
-Filter yesterday sales data that prices change more than set criteria ( 3% ) and put out to [daily-watch-list.csv]() file.
+Filter yesterday sales data that prices change more than set criteria ( 3% ) and put out to daily-watch-list.csv file.
 
 - [daily-watch-list](https://github.com/santimcs/A7/blob/main/Data/daily-watch-list.csv)
 
