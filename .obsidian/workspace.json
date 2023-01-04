@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL 010-Morning Process NB.md",
+                "file": "Snippets/Sidetable.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL 010-Morning Process NB.md",
+                "file": "Snippets/Sidetable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL 010-Morning Process NB.md",
+                "file": "Snippets/Sidetable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL 010-Morning Process NB.md"
+                "file": "Snippets/Sidetable.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
-    "().md",
     "DL 010-Morning Process NB.md",
+    "().md",
     "DL _Morn5 Batch.md",
     "DL _Morn4 Batch.md",
     "DL _Morn3 Batch.md",
