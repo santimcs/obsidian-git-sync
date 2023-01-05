@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Calculate Number of Business Days.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Calculate Number of Business Days.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Calculate Number of Business Days.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Data Types Conversion.md"
+                "file": "Snippets/Calculate Number of Business Days.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "Snippets/Calculate Number of Days.md",
+    "Snippets/Data Types Conversion.md",
     "Query.md",
     "().md",
     "Snippets/ChatGPT.md",
@@ -168,8 +170,6 @@
     "DL 010-Morning Process NB.md",
     "DL _Morn5 Batch.md",
     "DL _Morn4 Batch.md",
-    "DL _Morn3 Batch.md",
-    "DL _Morn1 Batch.md",
-    "DL __Morning Process.md"
+    "DL _Morn3 Batch.md"
   ]
 }
