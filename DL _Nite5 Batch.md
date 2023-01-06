@@ -4,4 +4,3 @@
 	
 	echo %cd%
 
-[[DL _Nite6 Batch]]
