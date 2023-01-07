@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 030-Consensus High Dividend.md",
+                "file": "WL 080-Weekly Transactions.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 030-Consensus High Dividend.md",
+                "file": "WL 080-Weekly Transactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 030-Consensus High Dividend.md",
+                "file": "WL 080-Weekly Transactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 030-Consensus High Dividend.md"
+                "file": "WL 080-Weekly Transactions.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "WL 060-Update Market to Stocks.md",
+    "WL 030-Consensus High Dividend.md",
     "WL 020-Price Comparison.md",
     "WL 010-Consensus.md",
     "DL _Nite5 Batch.md",
@@ -168,8 +170,6 @@
     "DL _Nite4 Batch.md",
     "Snippets/Data Types Conversion.md",
     "Snippets/Drop Rows.md",
-    "Snippets/Calculate Number of Business Days.md",
-    "Snippets/Calculate Number of Days.md",
-    "Query.md"
+    "Snippets/Calculate Number of Business Days.md"
   ]
 }
