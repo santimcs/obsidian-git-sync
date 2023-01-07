@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 120-Delete old & create new orders.md",
-                "mode": "preview",
+                "file": "WL 130-Assign Active Values to Orders.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 120-Delete old & create new orders.md",
+                "file": "WL 130-Assign Active Values to Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 120-Delete old & create new orders.md",
+                "file": "WL 130-Assign Active Values to Orders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 120-Delete old & create new orders.md"
+                "file": "WL 130-Assign Active Values to Orders.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "WL 120-Delete old & create new orders.md",
     "WL 080-Weekly Transactions.md",
     "WL 060-Update Market to Stocks.md",
     "WL 030-Consensus High Dividend.md",
@@ -169,7 +170,6 @@
     "DL _Nite5 Batch.md",
     "DL _Nite6 Batch.md",
     "DL _Nite4 Batch.md",
-    "Snippets/Data Types Conversion.md",
-    "Snippets/Drop Rows.md"
+    "Snippets/Data Types Conversion.md"
   ]
 }
