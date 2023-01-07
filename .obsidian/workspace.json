@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 020-Price Comparison.md",
+                "file": "WL 030-Consensus High Dividend.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 020-Price Comparison.md",
+                "file": "WL 030-Consensus High Dividend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 020-Price Comparison.md",
+                "file": "WL 030-Consensus High Dividend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 020-Price Comparison.md"
+                "file": "WL 030-Consensus High Dividend.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "WL 020-Price Comparison.md",
     "WL 010-Consensus.md",
     "DL _Nite5 Batch.md",
     "DL _Nite6 Batch.md",
@@ -169,7 +170,6 @@
     "Snippets/Drop Rows.md",
     "Snippets/Calculate Number of Business Days.md",
     "Snippets/Calculate Number of Days.md",
-    "Query.md",
-    "().md"
+    "Query.md"
   ]
 }
