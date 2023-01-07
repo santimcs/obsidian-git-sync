@@ -7,7 +7,7 @@
 			
  4. Filter profit records with profit over criteria by market.
  5. Matching check with Buy table in MySQL Database
- 6. Output records that are not in Buy table to [consensus-ORD.csv](https://github.com/santimcs/A8/blob/main/Data/consensus-ORD.csv)
+ 6. Output records that are not in Buy table to [consensus-ORD.csv](https://github.com/santimcs/A7/blob/main/Data/consensus-ORD.csv)
 
 
 [[WL 020-Price Comparison]]
