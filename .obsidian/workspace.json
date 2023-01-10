@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Create DF with subset of rows and columns.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Create DF with subset of rows and columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Create DF with subset of rows and columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Format Currency.md"
+                "file": "Snippets/Create DF with subset of rows and columns.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "Snippets/Format Currency.md",
     "WL 230-Change Stock Price & Consensus.md",
     "WL 220-Create Monitors from Orders.md",
     "WL 130-Assign Active Values to Orders.md",
@@ -169,7 +170,6 @@
     "WL 060-Update Market to Stocks.md",
     "WL 030-Consensus High Dividend.md",
     "WL 020-Price Comparison.md",
-    "WL 010-Consensus.md",
-    "DL _Nite5 Batch.md"
+    "WL 010-Consensus.md"
   ]
 }

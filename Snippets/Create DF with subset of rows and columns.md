@@ -3,7 +3,7 @@
 	watch_list = df.loc[abs(df.percent) >= 3,colt]
 	watch_list.sort_values(by="percent",ascending=False).style.format(format_dict)
 
-	df_out = df[df.active == 2][colt]
+	df_out = df.eval[active == 2][colt]
 	df_out
 
 #filters
