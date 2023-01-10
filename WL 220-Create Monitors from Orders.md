@@ -5,7 +5,7 @@
 5. Outer merge with orders.
 6. Print out left only records to create Price html & insert stock names to `price-uploads.csv`.
 7. Must manually create Price.html in folder www.santiwebsite.com/V1-Rename-Files/prices by copy prototype XXX.html to new file and find and replace XXX to stock name in four statements.
-8. Expot from Stocks table to `stocks-all.csv`.
+8. Export from Stocks table to `stocks-all.csv`.
 
 
 [[WL 230-Change Stock Price & Consensus]]
