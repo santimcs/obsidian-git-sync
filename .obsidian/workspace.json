@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL _Nite5 Batch.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL _Nite5 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "DL _Nite5 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite4 Batch.md"
+                "file": "DL _Nite5 Batch.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "DL _Nite4 Batch.md",
     "Snippets/Create DF with subset of rows and columns.md",
     "Snippets/Format Currency.md",
     "WL 230-Change Stock Price & Consensus.md",
@@ -169,7 +170,6 @@
     "WL 120-Delete old & create new orders.md",
     "WL 080-Weekly Transactions.md",
     "WL 060-Update Market to Stocks.md",
-    "WL 030-Consensus High Dividend.md",
-    "WL 020-Price Comparison.md"
+    "WL 030-Consensus High Dividend.md"
   ]
 }
