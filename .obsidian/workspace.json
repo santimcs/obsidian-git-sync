@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "DL _Nite2 Batch.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "DL _Nite2 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "DL _Nite2 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md"
+                "file": "DL _Nite2 Batch.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "638586a61c906e83",
   "lastOpenFiles": [
+    "DL _Nite1 Batch.md",
+    "DL __Night Process.md",
+    "WL 220-Create Monitors from Orders.md",
     "WL 130-Assign Active Values to Orders.md",
     "WL 120-Delete old & create new orders.md",
     "WL 080-Weekly Transactions.md",
     "WL 060-Update Market to Stocks.md",
     "WL 050-Weekly Transactions.md",
     "WL 030-Consensus High Dividend.md",
-    "WL 020-Price Comparison.md",
-    "WL 010-Consensus.md",
-    "DL _Nite5 Batch.md",
-    "DL _Nite4 Batch.md"
+    "WL 020-Price Comparison.md"
   ]
 }
