@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b5755537de2ef7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read CSV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "Read CSV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
+                "file": "Read CSV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 220-Create Monitors from Orders.md"
+                "file": "Read CSV.md"
               }
             }
           }
@@ -159,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "638586a61c906e83",
+  "active": "6b5755537de2ef7b",
   "lastOpenFiles": [
+    "WL 220-Create Monitors from Orders.md",
     "DL _Market3 Batch.md",
     "DL _Nite5 Batch.md",
     "DL _Nite4 Batch.md",
@@ -168,7 +181,6 @@
     "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
     "DL __Night Process.md",
-    "WL 220-Create Monitors from Orders.md",
     "WL 130-Assign Active Values to Orders.md",
     "WL 120-Delete old & create new orders.md"
   ]
