@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Query.md",
+                "file": "Snippets/Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Query.md",
+                "file": "Snippets/Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Query.md",
+                "file": "Snippets/Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Query.md"
+                "file": "Snippets/Query.md"
               }
             }
           }
@@ -171,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b5755537de2ef7b",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
     "Snippets/Read CSV.md",
     "WL 220-Create Monitors from Orders.md",
