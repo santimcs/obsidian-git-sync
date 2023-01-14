@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read CSV.md",
+                "file": "Snippets/Read CSV.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read CSV.md",
+                "file": "Snippets/Read CSV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read CSV.md",
+                "file": "Snippets/Read CSV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read CSV.md"
+                "file": "Snippets/Read CSV.md"
               }
             }
           }
@@ -171,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b5755537de2ef7b",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
     "WL 220-Create Monitors from Orders.md",
     "DL _Market3 Batch.md",
