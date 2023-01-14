@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Read CSV.md",
+                "file": "Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Read CSV.md",
+                "file": "Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Read CSV.md",
+                "file": "Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Read CSV.md"
+                "file": "Query.md"
               }
             }
           }
@@ -171,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "6b5755537de2ef7b",
   "lastOpenFiles": [
+    "Snippets/Read CSV.md",
     "WL 220-Create Monitors from Orders.md",
     "DL _Market3 Batch.md",
     "DL _Nite5 Batch.md",
@@ -181,7 +182,6 @@
     "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
     "DL __Night Process.md",
-    "WL 130-Assign Active Values to Orders.md",
-    "WL 120-Delete old & create new orders.md"
+    "WL 130-Assign Active Values to Orders.md"
   ]
 }
