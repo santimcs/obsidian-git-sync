@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/SQL Update SQLite.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "mode": "preview",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Query.md"
+                "file": "Snippets/Data Types Conversion.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "Snippets/SQL Update SQLite.md",
     "Snippets/Read CSV.md",
     "WL 220-Create Monitors from Orders.md",
     "DL _Market3 Batch.md",
@@ -181,7 +181,6 @@
     "DL _Nite3 Batch.md",
     "DL _Nite2 Batch.md",
     "DL _Nite1 Batch.md",
-    "DL __Night Process.md",
-    "WL 130-Assign Active Values to Orders.md"
+    "DL __Night Process.md"
   ]
 }
