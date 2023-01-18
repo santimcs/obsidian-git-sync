@@ -12,6 +12,6 @@
 		4. percent change
 		5. Save last three elements
 		6.  Calculate spreads between latest price & target
-	6. If spread <= input parameter, display to screen
+	6. If order active status <= input parameter, display to screen
 
 3. Press ctrl-C to exit
