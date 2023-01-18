@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a300fe89b69ce0b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Candidate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "638586a61c906e83",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crt-summary.md",
+                "file": "Candidate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crt-summary.md",
+                "file": "Candidate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crt-summary.md"
+                "file": "Candidate.md"
               }
             }
           }
@@ -171,8 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "a300fe89b69ce0b3",
   "lastOpenFiles": [
+    "crt-summary.md",
     "DL _Nite6 Batch.md",
     "Snippets/Rename Columns.md",
     "Snippets/Groupby.md",
@@ -181,7 +195,6 @@
     "Snippets/Read CSV.md",
     "WL 220-Create Monitors from Orders.md",
     "DL _Market3 Batch.md",
-    "DL _Nite5 Batch.md",
-    "DL _Nite4 Batch.md"
+    "DL _Nite5 Batch.md"
   ]
 }
