@@ -11,4 +11,7 @@
 		3. amount change
 		4. percent change
 		5. Save last three elements
-	6.  
+		6.  Calculate spreads between latest price & target
+	6. If spread <= input parameter, display to screen
+	
+
