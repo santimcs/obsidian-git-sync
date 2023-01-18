@@ -21,9 +21,9 @@
 				 4. Save values
 				 
 4.  Do every row
-		1. Save row to previous row
-		2. Accumulate total qty
-		3. Check and keep max & min prices
+	1. Save row to previous row
+	2. Accumulate total qty
+	3. Check and keep max & min prices
 		
 5. After end of file
 	1. Derive values
