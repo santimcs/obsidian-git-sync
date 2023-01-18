@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Rename Columns.md",
-                "mode": "preview",
+                "file": "crt-summary.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "crt-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "crt-summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Rename Columns.md"
+                "file": "crt-summary.md"
               }
             }
           }
@@ -172,6 +172,8 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL _Nite6 Batch.md",
+    "Snippets/Rename Columns.md",
     "Snippets/Groupby.md",
     "Snippets/Data Types Conversion.md",
     "Snippets/SQL Update SQLite.md",
@@ -179,8 +181,6 @@
     "WL 220-Create Monitors from Orders.md",
     "DL _Market3 Batch.md",
     "DL _Nite5 Batch.md",
-    "DL _Nite4 Batch.md",
-    "DL _Nite3 Batch.md",
-    "DL _Nite2 Batch.md"
+    "DL _Nite4 Batch.md"
   ]
 }
