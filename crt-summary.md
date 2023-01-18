@@ -25,7 +25,7 @@
 	2. Accumulate total qty
 	3. Check and keep max & min prices
 		
-5. After end of file
+5. After end of input file
 	1. Derive values
 	2. Output row
 	3. Display to screen
