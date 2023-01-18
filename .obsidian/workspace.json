@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -170,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ce22d41495a19e",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
     "DL _Nite6 Batch.md",
     "Snippets/Rename Columns.md",
