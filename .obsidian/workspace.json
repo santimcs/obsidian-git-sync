@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "bc1bd694cfc9de91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extreme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "638586a61c906e83",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market-All.md",
+                "file": "Extreme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market-All.md",
+                "file": "Extreme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market-All.md"
+                "file": "Extreme.md"
               }
             }
           }
@@ -196,8 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e84c624fcb06552d",
+  "active": "bc1bd694cfc9de91",
   "lastOpenFiles": [
+    "Market-All.md",
+    "Extreme.md",
     "Candidate.md",
     "crt-summary.md",
     "DL _Nite6 Batch.md",
@@ -205,8 +219,6 @@
     "Snippets/Groupby.md",
     "Snippets/Data Types Conversion.md",
     "Snippets/SQL Update SQLite.md",
-    "Snippets/Read CSV.md",
-    "WL 220-Create Monitors from Orders.md",
-    "DL _Market3 Batch.md"
+    "Snippets/Read CSV.md"
   ]
 }
