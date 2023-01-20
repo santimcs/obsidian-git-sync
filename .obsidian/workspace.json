@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crt-summary.md",
+                "file": "Snippets/Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crt-summary.md",
+                "file": "Snippets/Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crt-summary.md",
+                "file": "Snippets/Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crt-summary.md"
+                "file": "Snippets/Query.md"
               }
             }
           }
@@ -207,12 +206,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "crt-summary.md",
     "Market-All.md",
     "Extreme.md",
     "Candidate.md",
-    "crt-summary.md",
     "DL _Nite6 Batch.md",
     "Snippets/Rename Columns.md",
     "Snippets/Groupby.md",
