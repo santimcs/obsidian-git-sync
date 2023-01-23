@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "DL _Nite5 Batch.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "DL _Nite5 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "DL _Nite5 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Query.md"
+                "file": "DL _Nite5 Batch.md"
               }
             }
           }
@@ -208,15 +208,15 @@
   },
   "active": "95ce22d41495a19e",
   "lastOpenFiles": [
+    "DL _Nite4 Batch.md",
+    "DL _Nite5 Batch.md",
+    "DL _Nite6 Batch.md",
+    "Snippets/Query.md",
     "crt-summary.md",
     "Market-All.md",
     "Extreme.md",
     "Candidate.md",
-    "DL _Nite6 Batch.md",
     "Snippets/Rename Columns.md",
-    "Snippets/Groupby.md",
-    "Snippets/Data Types Conversion.md",
-    "Snippets/SQL Update SQLite.md",
-    "Snippets/Read CSV.md"
+    "Snippets/Groupby.md"
   ]
 }
