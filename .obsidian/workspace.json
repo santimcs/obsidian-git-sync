@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6540410cc2f5434",
+        "id": "46e6abd53c837904",
         "type": "tabs",
         "children": [
           {
-            "id": "95ce22d41495a19e",
+            "id": "7180027bc2c1cdc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite5 Batch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a300fe89b69ce0b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Candidate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e84c624fcb06552d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Market-All.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc1bd694cfc9de91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extreme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "638586a61c906e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WL 220-Create Monitors from Orders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5755537de2ef7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Begin and end of month.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite5 Batch.md",
+                "file": "Snippets/Begin and end of month.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite5 Batch.md",
+                "file": "Snippets/Begin and end of month.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite5 Batch.md"
+                "file": "Snippets/Begin and end of month.md"
               }
             }
           }
@@ -206,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ce22d41495a19e",
+  "active": "7180027bc2c1cdc6",
   "lastOpenFiles": [
-    "DL _Nite4 Batch.md",
-    "DL _Nite5 Batch.md",
-    "DL _Nite6 Batch.md",
     "Snippets/Query.md",
-    "crt-summary.md",
-    "Market-All.md",
+    "WL 220-Create Monitors from Orders.md",
     "Extreme.md",
+    "Market-All.md",
+    "DL _Nite5 Batch.md",
+    "DL _Nite4 Batch.md",
+    "DL _Nite6 Batch.md",
+    "crt-summary.md",
     "Candidate.md",
-    "Snippets/Rename Columns.md",
-    "Snippets/Groupby.md"
+    "Snippets/Rename Columns.md"
   ]
 }
