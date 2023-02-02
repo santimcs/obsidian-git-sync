@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Drop Rows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Drop Rows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Drop Rows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Data Types Conversion.md"
+                "file": "Snippets/Drop Rows.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "7180027bc2c1cdc6",
   "lastOpenFiles": [
+    "Snippets/Data Types Conversion.md",
     "DL _Nite5 Batch.md",
     "DL _Nite4 Batch.md",
     "DL _Nite3 Batch.md",
@@ -156,7 +157,6 @@
     "DL _Morn1 Batch.md",
     "DL __Morning Process.md",
     "DL _CDD5 Batch.md",
-    "Snippets/Begin and end of month.md",
-    "Snippets/Query.md"
+    "Snippets/Begin and end of month.md"
   ]
 }
