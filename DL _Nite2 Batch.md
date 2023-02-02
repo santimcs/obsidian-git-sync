@@ -1,4 +1,4 @@
-	del %cd%\Data\spd_dly.csv
+nite2	del %cd%\Data\spd_dly.csv
 	
 	ruby ruby\spread_crt.rb
 	
