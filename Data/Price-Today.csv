@@ -1,4 +1,4 @@
-Symbol,Date,Last,Change,%Change,Open,High,Low,Total-Volume,Total-Value-(k)
+name,date,price,chg_amt,chg_pct,open,high,low,volume,daily_volume
 ACE,2023-02-06,2.56,0.02,0.7874015748031497,2.54,2.58,2.54,23240505,59621.45994
 ADVANC,2023-02-06,197.0,-1.5,-0.7556675062972292,198.5,198.5,197.0,2112826,417546.104
 AH,2023-02-06,33.0,0.75,2.3255813953488373,32.5,33.25,32.25,1062782,34888.70525
