@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "Snippets/Rename Columns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "Snippets/Rename Columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL _Nite4 Batch.md",
+                "file": "Snippets/Rename Columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL _Nite4 Batch.md"
+                "file": "Snippets/Rename Columns.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "7180027bc2c1cdc6",
   "lastOpenFiles": [
+    "DL _Nite4 Batch.md",
     "DL _Nite1 Batch.md",
     "Snippets/Query.md",
     "DL _Nite5 Batch.md",
-    "DL _Nite4 Batch.md",
     "Snippets/Rename Columns.md",
     "DL _Ord-Log Batch.md",
     "Snippets/Drop Rows.md",
