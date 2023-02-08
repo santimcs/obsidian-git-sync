@@ -1,5 +1,4 @@
-name,fm_date,to_date,fm_price,to_price,percent,qty,max_price,min_price,status,action
-BANPU,2023-02-08,2023-02-08,11.2,11.2,0.0,47601625,12.6,11.2,B,Insert
+["name", "fm_date", "to_date", "fm_price", "to_price", "qty", "max_price", "min_price", "percent", "status", "price", "change", "volume", "date\n"]BANPU,2023-02-08,2023-02-08,11.2,11.2,0.0,47601625,12.6,11.2,B,Insert
 CK,2023-02-08,2023-02-08,22.4,22.6,0.89,898831,22.9,22.4,O,Insert
 CKP,2023-02-03,2023-02-08,4.56,4.64,1.75,7030427,4.68,4.54,O,Update
 COM7,2023-02-08,2023-02-08,31.75,31.75,0.0,4213531,33.25,31.75,O,Insert
