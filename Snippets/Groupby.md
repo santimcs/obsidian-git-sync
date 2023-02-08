@@ -6,7 +6,17 @@
 	JOIN groups G ON group_id = G.id 
 	WHERE strftime('%Y', date) = '2022'
 	"""
-	
+
+	sales.groupby("product_group", as_index=False).agg(  
+	avg_price = ("price","mean")  
+	)
+
+	sales.groupby("product_group", as_index=False).agg(  
+	avg_price = ("price","mean"),  
+	avg_stock_qty = ("stock_qty","mean")  
+	)
+
+
 	monthly = df.groupby("Month")
 	monthly.sum().style.format(format_dict)
 
