@@ -1,4 +1,4 @@
-trade,name,spd,reason,market,qty,target,current,change,percent,active,xdate
+trade,name,spd,reason,market,qty,target,current,change,%change,active,xdate
 B,BANPU,-1,DTD,SET50,6000,10.8,10.9,0.0,0.0,2,2023-04-08
 B,CK,-2,5pct,SET100,4500,22.0,22.2,-0.3,-1.3333333333333333,1,2022-12-22
 B,CKP,-10,3L,SET100,20000,4.5,4.7,0.04,0.8583690987124464,0,2022-12-22
