@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "13e334bb38543226",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "8d70476f21cb5332",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7180027bc2c1cdc6",
+  "active": "13e334bb38543226",
   "lastOpenFiles": [
     "DL _Nite2 Batch.md",
     "Snippets/Groupby.md",
