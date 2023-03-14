@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Drop Columns.md",
+                "file": "Snippets/Read CSV.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Drop Columns.md",
+                "file": "Snippets/Read CSV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Drop Columns.md",
+                "file": "Snippets/Read CSV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Drop Columns.md"
+                "file": "Snippets/Read CSV.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "13e334bb38543226",
   "lastOpenFiles": [
+    "Snippets/Drop Columns.md",
     "DL _Nite2 Batch.md",
     "Snippets/Groupby.md",
     "DL _Nite5 Batch.md",
