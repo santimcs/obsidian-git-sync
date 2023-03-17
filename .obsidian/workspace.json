@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "DL _Nite1 Batch.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "DL _Nite1 Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Groupby.md",
+                "file": "DL _Nite1 Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Groupby.md"
+                "file": "DL _Nite1 Batch.md"
               }
             }
           }
@@ -171,10 +171,11 @@
   },
   "active": "13e334bb38543226",
   "lastOpenFiles": [
+    "DL __Night Process.md",
+    "Snippets/Groupby.md",
     "Snippets/Read CSV.md",
     "Snippets/Drop Columns.md",
     "DL _Nite2 Batch.md",
-    "Snippets/Groupby.md",
     "DL _Nite5 Batch.md",
     "Snippets/Rename Columns.md",
     "DL _Nite4 Batch.md",
