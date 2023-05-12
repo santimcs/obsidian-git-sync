@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "52551d32a0ebfd5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "8d70476f21cb5332",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,6 +95,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0e3b3f4f6414141",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -169,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13e334bb38543226",
+  "active": "52551d32a0ebfd5f",
   "lastOpenFiles": [
     "DL _Nite1 Batch.md",
     "DL __Night Process.md",
