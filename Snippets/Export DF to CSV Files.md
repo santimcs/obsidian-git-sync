@@ -4,6 +4,7 @@
 	output_file = csv_path + file_name
 	box_file = box_path + file_name
 	one_file = one_path + file_name
+	osd_path = "\\Users\\User\\OneDrive\\Documents\\obsidian-git-sync\\Data\\"
 	
 	df[colu].sort_values(["prc_pct"], ascending=False).to_csv(data_file, index=False)
 	df[colu].sort_values(["prc_pct"], ascending=False).to_csv(output_file, index=False)
