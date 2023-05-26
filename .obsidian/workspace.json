@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md",
+                "file": "Snippets/Yesterday.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md",
+                "file": "Snippets/Yesterday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md",
+                "file": "Snippets/Yesterday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Export DF to CSV Files.md"
+                "file": "Snippets/Yesterday.md"
               }
             }
           }
@@ -191,6 +191,11 @@
   },
   "active": "52551d32a0ebfd5f",
   "lastOpenFiles": [
+    "Snippets/Convert stock names to string for use in SQL IN criteria.md",
+    "Snippets/Calculate Number of Days.md",
+    "Snippets/Calculate Number of Business Days.md",
+    "Snippets/Begin and end of month.md",
+    "Snippets/Export DF to CSV Files.md",
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
     "Data/Performance.csv",
