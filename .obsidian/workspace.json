@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Query.md"
+                "file": "Snippets/Pandas.md"
               }
             }
           }
@@ -203,6 +203,7 @@
   },
   "active": "d101011e921d24b4",
   "lastOpenFiles": [
+    "Snippets/Query.md",
     "Snippets/Read CSV.md",
     "Snippets/Create DF with subset of rows and columns.md",
     "Snippets/Convert stock names to string for use in SQL IN criteria.md",
@@ -221,7 +222,6 @@
     "DL _Nite5 Batch.md",
     "Snippets/Rename Columns.md",
     "DL _Nite4 Batch.md",
-    "Snippets/Query.md",
     "DL _Ord-Log Batch.md",
     "Snippets/Drop Rows.md",
     "Snippets/Data Types Conversion.md"
