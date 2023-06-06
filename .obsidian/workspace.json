@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "ebe6abcc4226fd48",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "8d70476f21cb5332",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,7 +211,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d101011e921d24b4",
+  "active": "ebe6abcc4226fd48",
   "lastOpenFiles": [
     "Snippets/Pandas.md",
     "Snippets/Query.md",
