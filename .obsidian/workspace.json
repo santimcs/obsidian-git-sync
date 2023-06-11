@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Read CSV.md",
+                "file": "Snippets/Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Read CSV.md",
+                "file": "Snippets/Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Read CSV.md",
+                "file": "Snippets/Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Read CSV.md"
+                "file": "Snippets/Query.md"
               }
             }
           }
@@ -203,10 +203,10 @@
   },
   "active": "d101011e921d24b4",
   "lastOpenFiles": [
+    "Snippets/Read CSV.md",
     "Snippets/Create DF with subset of rows and columns.md",
     "Snippets/Pandas.md",
     "Snippets/Query.md",
-    "Snippets/Read CSV.md",
     "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "Snippets/Calculate Number of Days.md",
     "Snippets/Calculate Number of Business Days.md",
