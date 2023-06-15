@@ -2,7 +2,7 @@
 cd\ruby\port_lite\db
 
 sqlite3 development.sqlite3
-.separator ","
+.separator " "
 
 SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE active = 2 ORDER BY trade, name;
 UPDATE orders SET active = 2, price = 7.5 WHERE name = 'JASIF';
