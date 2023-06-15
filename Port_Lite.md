@@ -4,7 +4,7 @@ cd\ruby\port_lite\db
 sqlite3 development.sqlite3
 
 select trade, name, qty ,price, active, reason, market from orders where active = 2 order by trade, name;
-update orders set active = 1 where name = 'CPNREIT';
+UPDATE orders SET active = 2, price = 7.5 WHERE name = 'JASIF';
 update orders set trade = 'S', active = 2, price = 52.50, reason = '5pct' where name = 'KTC';
 
 .schema sales
