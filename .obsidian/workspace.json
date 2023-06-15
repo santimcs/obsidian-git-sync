@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "d2bea226bdf0e288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Port_Lite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8d70476f21cb5332",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Port_Lite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Port_Lite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfolio.md"
+                "file": "Port_Lite.md"
               }
             }
           }
@@ -213,10 +225,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6f60f43d9dc0da6",
+  "active": "d2bea226bdf0e288",
   "lastOpenFiles": [
-    "Readme.md",
     "Portfolio.md",
+    "Port_Lite.md",
+    "Readme.md",
     "Snippets/Rename Columns.md",
     "Snippets/Query.md",
     "Snippets/Read CSV.md",
