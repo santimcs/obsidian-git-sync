@@ -5,7 +5,7 @@ sqlite3 development.sqlite3
 
 select * from orders where name = 'CPNREIT';
 update orders set active = 1 where name = 'CPNREIT';
-update orders set trade = 'S', active = 2, price = 52.50 where name = 'KTC';
+update orders set trade = 'S', active = 2, price = 52.50, reason = '5pct' where name = 'KTC';
 
 .schema sales
 
