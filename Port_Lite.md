@@ -1,5 +1,5 @@
 
-cd\\ruby\\port_lite\\db
+cd\ruby\port_lite\db
 
 sqlite3 development.sqlite3
 
