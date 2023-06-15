@@ -5,3 +5,4 @@ sqlite3 development.sqlite3
 
 .schema sales
 
+SELECT name,fm_date,to_date,fm_price,to_price,max_price,min_price,pct,days,ttl_spread FROM sales WHERE to_date = '2023-06-14' AND name= "AWC";
