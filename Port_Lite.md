@@ -6,7 +6,8 @@ sqlite3 development.sqlite3
 .schema sales
 
 SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE active = 2 ORDER BY trade, name;
-SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'EA';
+/* Select Order by Name */
+SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'TFFIF';
 
 SELECT name,fm_date,to_date,fm_price,to_price,max_price,min_price,pct,days,ttl_spread FROM sales WHERE to_date = '2023-06-14' AND name= "AWC";
 
