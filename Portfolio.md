@@ -1,3 +1,5 @@
+mysql -u root -p
+use portfolio_development;
 
 SELECT name, S.date, B.date, S. price, B.price, qty, days, profit, percent  from sells S JOIN buys B ON S.buy_id = B.id JOIN stocks T ON B.stock_id = T.id WHERE T.name='KTC' ORDER BY S.date DESC;
 
