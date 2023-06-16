@@ -10,7 +10,7 @@ SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE active 
 SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'TFFIF';
 
 SELECT name,fm_date,to_date,fm_price,to_price,max_price,min_price,pct,days,ttl_spread FROM sales WHERE to_date = '2023-06-14' AND name= "AWC";
-
+/* Select Order by Name */
 SELECT name,fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct<=-5.00 AND to_date='2023-06-15' ORDER BY pct ASC;
 
 SELECT name, fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct>=5.00 AND to_date='2023-06-15' ORDER BY pct DESC;
