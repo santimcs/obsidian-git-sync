@@ -5,7 +5,7 @@ sqlite3 development.sqlite3
 .separator " "
 .schema sales
 
-SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE active = 2 ORDER BY trade, name;
+SELECT trade, name, qty ,price, qty*price AS amount, active, reason, market FROM orders WHERE active = 2 ORDER BY trade, name;
 /* Select Order by Name */
 SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'TFFIF';
 
