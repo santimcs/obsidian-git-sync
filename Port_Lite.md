@@ -5,6 +5,8 @@ sqlite3 development.sqlite3
 .separator " "
 
 SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE active = 2 ORDER BY trade, name;
+SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'GVREIT';
+
 UPDATE orders SET active = 2, price = 7.5 WHERE name = 'JASIF';
 UPDATE orders SET trade = 'S', active = 2, price = 52.50, reason = '5pct' WHERE name = 'KTC';
 
