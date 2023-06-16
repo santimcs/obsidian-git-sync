@@ -18,4 +18,6 @@ SELECT name,fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_pric
 
 SELECT name, fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct>=5.00 AND to_date='2023-06-15' ORDER BY pct DESC;
 
+DELETE FROM orders WHERE name = 'TFFIF';
+
 .quit
