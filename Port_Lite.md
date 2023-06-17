@@ -7,7 +7,7 @@ sqlite3 development.sqlite3
 
 SELECT trade, name, qty ,price, qty*price AS amount, active, reason, market FROM orders WHERE active = 2 ORDER BY trade, name;
 
-SELECT trade, C.name, qty ,O.price, qty*O.price AS amount, active, reason, market, C.price, buy, hold, sell FROM orders O JOIN consensus C ON O.name  = C.name WHERE active = 2 ORDER BY trade, C.name;
+SELECT trade, C.name, qty ,price, qty*price AS amount, active, reason, market, target, buy, hold, sell FROM orders O JOIN consensus C ON O.name  = C.name WHERE active = 2 ORDER BY trade, C.name;
 
 /* Select Order by Name */
 SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'TFFIF';
