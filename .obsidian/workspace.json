@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "Snippets/Insert records into MySQL table.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "Snippets/Insert records into MySQL table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "Snippets/Insert records into MySQL table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Rename Columns.md"
+                "file": "Snippets/Insert records into MySQL table.md"
               }
             }
           }
@@ -205,9 +205,9 @@
   },
   "active": "d2bea226bdf0e288",
   "lastOpenFiles": [
+    "Snippets/Rename Columns.md",
     "Port_Lite.md",
     "Portfolio.md",
-    "Snippets/Rename Columns.md",
     "Readme.md",
     "Snippets/Query.md",
     "Snippets/Read CSV.md",
