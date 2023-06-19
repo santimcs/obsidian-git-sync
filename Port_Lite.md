@@ -27,7 +27,7 @@ UPDATE orders SET trade ='S', active = 2, price = 41.75, reason = '5pct' WHERE n
 DELETE FROM orders WHERE name = 'TFFIF';
 
 /* Consensus */
-SELECT * FROM consens*
+SELECT * FROM consensus WHERE name = 'GVREIT';
 INSERT INTO consensus VALUES ('GVREIT',9.1,9.1,9.1,0,0,0);
 
 .quit
