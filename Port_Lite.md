@@ -20,6 +20,7 @@ SELECT name,fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_pric
 /* Select Prospective Sell stocks */
 SELECT name, fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct>=5.00 AND to_date='2023-06-16' ORDER BY pct DESC;
 
+UPDATE orders SET active = 2 WHERE name = 'JASIF';
 UPDATE orders SET active = 2, price = 7.5 WHERE name = 'JASIF';
 UPDATE orders SET trade ='S', active = 2, price = 41.75, reason = '5pct' WHERE name = 'JMT';
 
