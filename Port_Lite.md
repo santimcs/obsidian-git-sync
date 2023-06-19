@@ -26,4 +26,7 @@ UPDATE orders SET trade ='S', active = 2, price = 41.75, reason = '5pct' WHERE n
 
 DELETE FROM orders WHERE name = 'TFFIF';
 
+/* Consensus */
+INSERT INTO consensus VALUES ('GVREIT',)
+
 .quit
