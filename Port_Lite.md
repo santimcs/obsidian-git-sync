@@ -21,7 +21,7 @@ SELECT name,fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_pric
 SELECT name, fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct>=5.00 AND to_date='2023-06-16' ORDER BY pct DESC;
 
 UPDATE orders SET active = 2, price = 7.5 WHERE name = 'JASIF';
-UPDATE orders SET trade = 'B', active = 2, price = 39.75, reason = '5pct' WHERE name = 'JMT';
+UPDATE orders SET trade =' S', active = 2, price = 15, reason = '5pct' WHERE name = 'ICHI';
 
 DELETE FROM orders WHERE name = 'TFFIF';
 
