@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2bea226bdf0e288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Port_Lite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port_Lite.md",
+                "file": "Snippets/Rename Columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Port_Lite.md",
+                "file": "Snippets/Rename Columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Port_Lite.md"
+                "file": "Snippets/Rename Columns.md"
               }
             }
           }
@@ -203,12 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2bea226bdf0e288",
+  "active": "d101011e921d24b4",
   "lastOpenFiles": [
+    "Port_Lite.md",
     "Snippets/Read CSV.md",
     "Snippets/Insert records into MySQL table.md",
     "Snippets/Rename Columns.md",
-    "Port_Lite.md",
     "Portfolio.md",
     "Readme.md",
     "Snippets/Query.md",

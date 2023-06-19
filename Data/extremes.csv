@@ -1,3 +1,5 @@
 name,pct,price_today,price_yesterday,status,diff
-TFFIF,3.29,7.85,7.6,O,0.25
-ICHI,-4.0,14.4,15.0,O,-0.6
+JMT,-3.05,39.75,41.0,B,-1.25
+CPNREIT,-7.5,11.1,12.0,I,-0.9
+KCE,3.11,41.5,40.25,U,1.25
+AIT,5.21,5.05,4.8,X,0.25
