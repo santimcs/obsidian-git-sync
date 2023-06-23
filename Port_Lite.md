@@ -22,7 +22,7 @@ SELECT name, fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_pri
 
 UPDATE orders SET active = 1 WHERE name = 'AWC';
 UPDATE orders SET active = 2, price = 11 WHERE name = 'WHART';
-UPDATE orders SET trade ='B', active = 2, price = 10.3, reason = 'RD30pct' WHERE name = 'DIF';
+UPDATE orders SET trade ='S', active = 2, price = 11.1, reason = '5pct' WHERE name = 'DIF';
 
 DELETE FROM orders WHERE name = 'TFFIF';
 
