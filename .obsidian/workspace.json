@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Drop Columns.md",
+                "file": "Snippets/Rename Columns.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Drop Columns.md",
+                "file": "Snippets/Rename Columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Drop Columns.md",
+                "file": "Snippets/Rename Columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Drop Columns.md"
+                "file": "Snippets/Rename Columns.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "d101011e921d24b4",
   "lastOpenFiles": [
+    "Snippets/Drop Columns.md",
     "Snippets/Classify by Stock Market.md",
     "Port_Lite.md",
     "Portfolio.md",
@@ -216,7 +217,6 @@
     "DL _Nite1 Batch.md",
     "DL __Night Process.md",
     "Snippets/Groupby.md",
-    "Snippets/Drop Columns.md",
     "DL _Nite2 Batch.md",
     "DL _Nite5 Batch.md",
     "DL _Nite4 Batch.md",
