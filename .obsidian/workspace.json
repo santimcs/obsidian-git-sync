@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Format single float variable.md",
+                "file": "Snippets/Format Currency.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Format single float variable.md",
+                "file": "Snippets/Format Currency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Format single float variable.md",
+                "file": "Snippets/Format Currency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Format single float variable.md"
+                "file": "Snippets/Format Currency.md"
               }
             }
           }
@@ -203,9 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a68610aef3339ae8",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
     "Snippets/Format PortLite.md",
+    "Snippets/Drop Rows.md",
     "Format single float variable.md",
     "Snippets/Format Currency.md",
     "Snippets/Classify by Stock Market.md",
@@ -234,7 +235,6 @@
     "Snippets/Groupby.md",
     "DL _Nite2 Batch.md",
     "DL _Nite5 Batch.md",
-    "DL _Nite4 Batch.md",
-    "DL _Ord-Log Batch.md"
+    "DL _Nite4 Batch.md"
   ]
 }
