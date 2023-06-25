@@ -4,4 +4,4 @@
 	print(formatted_amt)
 
 
-format currency
+[[format currency]]

@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "Snippets/Format single float variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "Snippets/Format single float variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Format PortLite.md"
+                "file": "Snippets/Format single float variable.md"
               }
             }
           }
@@ -167,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d101011e921d24b4",
+  "active": "a68610aef3339ae8",
   "lastOpenFiles": [
-    "Snippets/Format single float variable.md",
     "Snippets/Format Currency.md",
+    "Snippets/Format single float variable.md",
     "Snippets/Format PortLite.md",
     "Untitled.md",
     "Snippets/Groupby.md",

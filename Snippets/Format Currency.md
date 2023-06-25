@@ -22,3 +22,6 @@
 
 
 [[Format PortLite]]
+
+[[Format single float variable]]
+
