@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Format single float variable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"format currency\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Format PortLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Format Currency.md",
+                "file": "Snippets/Format PortLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Format Currency.md"
+                "file": "Snippets/Format PortLite.md"
               }
             }
           }
@@ -167,15 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a68610aef3339ae8",
+  "active": "d101011e921d24b4",
   "lastOpenFiles": [
-    "Snippets/Format PortLite.md",
+    "Snippets/Format single float variable.md",
     "Snippets/Format Currency.md",
+    "Snippets/Format PortLite.md",
     "Untitled.md",
     "Snippets/Groupby.md",
     "DL _Nite3 Batch.md",
     "Snippets/Drop Rows.md",
-    "Format single float variable.md",
     "Snippets/Classify by Stock Market.md",
     "Snippets/Rename Columns.md",
     "Snippets/Drop Columns.md",
