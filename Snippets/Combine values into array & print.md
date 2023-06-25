@@ -3,3 +3,7 @@
 	array = array.map('฿{:,.2f}'.format)
 	for value in array:
 	    print(f"The value is: {value}")
+
+
+
+[[Format single float variable]]

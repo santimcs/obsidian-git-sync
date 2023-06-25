@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combine values into array & print.md",
+                "file": "Snippets/Combine values into array & print.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combine values into array & print.md",
+                "file": "Snippets/Combine values into array & print.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combine values into array & print.md",
+                "file": "Snippets/Combine values into array & print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combine values into array & print.md"
+                "file": "Snippets/Combine values into array & print.md"
               }
             }
           }
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "271d7c3cfbb82e62",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
     "Snippets/Format Currency.md",
-    "Combine values into array & print.md",
+    "Snippets/Combine values into array & print.md",
     "Snippets/Format single float variable.md",
     "Snippets/Format PortLite.md",
     "Untitled.md",
