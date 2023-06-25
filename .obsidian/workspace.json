@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7180027bc2c1cdc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL _Nite3 Batch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13e334bb38543226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Query.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52551d32a0ebfd5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Yesterday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d101011e921d24b4",
             "type": "leaf",
             "state": {
@@ -68,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,12 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "a68610aef3339ae8",
   "lastOpenFiles": [
     "Snippets/Format PortLite.md",
+    "Snippets/Format Currency.md",
+    "Untitled.md",
+    "Snippets/Groupby.md",
+    "DL _Nite3 Batch.md",
     "Snippets/Drop Rows.md",
     "Format single float variable.md",
-    "Snippets/Format Currency.md",
     "Snippets/Classify by Stock Market.md",
     "Snippets/Rename Columns.md",
     "Snippets/Drop Columns.md",
@@ -232,9 +199,6 @@
     "Data/Performance.csv",
     "DL _Nite1 Batch.md",
     "DL __Night Process.md",
-    "Snippets/Groupby.md",
-    "DL _Nite2 Batch.md",
-    "DL _Nite5 Batch.md",
-    "DL _Nite4 Batch.md"
+    "DL _Nite2 Batch.md"
   ]
 }

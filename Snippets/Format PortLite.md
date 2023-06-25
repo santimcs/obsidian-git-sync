@@ -1,7 +1,4 @@
-	
-	
-	
-	
+
 	cols = 'fm_date to_date fm_price to_price qty max_price min_price percent status'.split()
 	
 	format_dict = {
