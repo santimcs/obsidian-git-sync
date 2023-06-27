@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Combine values into array & print.md",
+                "file": "Portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Format PortLite.md"
+                "file": "Portfolio.md"
               }
             }
           }
@@ -179,12 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "271d7c3cfbb82e62",
   "lastOpenFiles": [
+    "Snippets/Format PortLite.md",
     "Snippets/Format Currency.md",
     "Snippets/Combine values into array & print.md",
     "Snippets/Format single float variable.md",
-    "Snippets/Format PortLite.md",
     "Untitled.md",
     "Snippets/Groupby.md",
     "DL _Nite3 Batch.md",
