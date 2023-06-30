@@ -6,7 +6,7 @@ sqlite3 development.sqlite3
 .schema sales
 
 /* Select Order, Consensus by Name */
-SELECT trade, O.name, qty ,price, qty*price AS amount, active, reason, market, target, max, min, buy, hold, sell FROM orders O JOIN consensus C ON O.name  = C.name WHERE O.name = 'DIF';
+SELECT trade, O.name, qty ,price, qty*price AS amount, active, reason, market, target, max, min, buy, hold, sell FROM orders O JOIN consensus C ON O.name  = C.name WHERE O.name = 'BANPU';
 
 /* Select Order, Consensus by Active */
 SELECT trade, O.name, qty ,price, qty*price AS amount, active, reason, market, target, max, min, buy, hold, sell FROM orders O JOIN consensus C ON O.name  = C.name WHERE active = 2 ORDER BY trade, C.name;
@@ -29,5 +29,7 @@ DELETE FROM orders WHERE name = 'TFFIF';
 /* Consensus */
 SELECT * FROM consensus WHERE name = 'GVREIT';
 INSERT INTO consensus VALUES ('GVREIT',9.1,9.1,9.1,0,0,0);
+
+
 
 .quit
