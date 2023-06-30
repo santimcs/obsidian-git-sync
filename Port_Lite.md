@@ -21,10 +21,11 @@ SELECT name,fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_pric
 SELECT name, fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct>=5.00 AND to_date='2023-06-16' ORDER BY pct DESC;
 
 UPDATE orders SET active = 1 WHERE name = 'DIF';
+UPDATE orders SETqty = 400 WHERE name = 'BBL';
 UPDATE orders SET active = 2, price = 11 WHERE name = 'WHART';
 UPDATE orders SET trade ='B', active = 1, price = 53, reason = '52WL' WHERE name = 'EA';
 
-DELETE FROM orders WHERE name = 'TFFIF';
+DELETE FROM orders WHERE name = 'BANPU';
 
 /* Consensus */
 SELECT * FROM consensus WHERE name = 'GVREIT';
