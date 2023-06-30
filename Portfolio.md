@@ -3,7 +3,7 @@ use portfolio_development;
 describe buys;
 
 /* Select buys with active status by name*
-SELECT name,date,price,qty,status FROM buys B JOIN stocks T ON stock_id = T.id WHERE T.name='AH' AND status = 'Active' ORDER BY name ASC;
+SELECT name,date,price,qty,status FROM buys B JOIN stocks T ON stock_id = T.id WHERE T.name='ORI' AND status = 'Active' ORDER BY name ASC;
 
 /* Select latest buys with active status by name*
 SELECT name,date,price,qty,status FROM buys B JOIN stocks T ON stock_id = T.id WHERE  status = 'Active' ORDER BY name ASC LIMIT 10;
