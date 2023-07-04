@@ -18,6 +18,7 @@ SELECT name,fm_date,to_date,fm_price,to_price,max_price,min_price,pct,days,ttl_s
 
 /* Select Prospective Buy stocks */
 SELECT name,fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct<=-5.00 AND to_date='2023-06-16' ORDER BY pct ASC;
+
 /* Select Prospective Sell stocks */
 SELECT name, fm_date,to_date,fm_price,to_price,ttl_spread,days,max_price,min_price,pct FROM sales WHERE pct>=5.00 AND to_date='2023-06-16' ORDER BY pct DESC;
 
