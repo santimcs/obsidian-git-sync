@@ -13,6 +13,7 @@ id,name,market,website
 210,AWC,SET50,https://www.assetworldcorp-th.com
 58,BA,SET999,www.bangkokair.com
 30,BANPU,SET50,www.banpu.com
+211,BBL,SET50,https://www.bangkokbank.com/
 77,BCH,SET100,www.bangkokchainhospital.com
 91,BCP,SET100,www.bangchak.co.th
 205,BDMS,SET50,
@@ -42,7 +43,6 @@ id,name,market,website
 106,DCON,SET999,
 81,DIF,SET999,www.digital-tif.com
 187,DOHOME,SET100,
-152,DTAC,SET50,
 38,EA,SET50,www.energyabsolute.co.th
 112,ECL,SET999,
 171,EGATIF,SET999,
