@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md",
+                "file": "Snippets/Groupby.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 281.5
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md",
+                "file": "Snippets/Groupby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md",
+                "file": "Snippets/Groupby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Classify by Stock Market.md"
+                "file": "Snippets/Groupby.md"
               }
             }
           }
@@ -179,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "271d7c3cfbb82e62",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
+    "Snippets/Classify by Stock Market.md",
     "Port_Lite.md",
     "Portfolio.md",
     "Snippets/Format Currency.md",
@@ -191,7 +192,6 @@
     "Snippets/Groupby.md",
     "DL _Nite3 Batch.md",
     "Snippets/Drop Rows.md",
-    "Snippets/Classify by Stock Market.md",
     "Snippets/Rename Columns.md",
     "Snippets/Drop Columns.md",
     "Data/titanic3.csv",
