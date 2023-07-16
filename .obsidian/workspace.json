@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0aac78c54a277e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Format PortLite.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Format PortLite.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -179,14 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "0aac78c54a277e37",
   "lastOpenFiles": [
+    "Snippets/Format PortLite.md",
+    "Untitled 1.md",
     "Snippets/Classify by Stock Market.md",
     "Port_Lite.md",
     "Portfolio.md",
     "Snippets/Format Currency.md",
     "Snippets/Format single float variable.md",
-    "Snippets/Format PortLite.md",
     "Snippets/Combine values into array & print.md",
     "Untitled.md",
     "Snippets/Groupby.md",
@@ -210,7 +223,6 @@
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
     "Data/Performance.csv",
-    "DL _Nite1 Batch.md",
-    "DL __Night Process.md"
+    "DL _Nite1 Batch.md"
   ]
 }
