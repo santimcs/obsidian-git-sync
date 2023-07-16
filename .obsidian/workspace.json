@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Snippets/Delete statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Snippets/Delete statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Snippets/Delete statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Snippets/Delete statement.md"
               }
             }
           }
@@ -191,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0aac78c54a277e37",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
     "Snippets/Format PortLite.md",
-    "Untitled 1.md",
+    "Snippets/Delete statement.md",
     "Snippets/Classify by Stock Market.md",
     "Port_Lite.md",
     "Portfolio.md",
