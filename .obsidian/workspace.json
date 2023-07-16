@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2153abb971a60bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Filter records.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Delete statement.md",
+                "file": "Snippets/Filter records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Delete statement.md",
+                "file": "Snippets/Filter records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Delete statement.md"
+                "file": "Snippets/Filter records.md"
               }
             }
           }
@@ -193,8 +205,9 @@
   },
   "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
-    "Snippets/Format PortLite.md",
     "Snippets/Delete statement.md",
+    "Snippets/Filter records.md",
+    "Snippets/Format PortLite.md",
     "Snippets/Classify by Stock Market.md",
     "Port_Lite.md",
     "Portfolio.md",
@@ -222,7 +235,6 @@
     "Snippets/Export DF to CSV Files.md",
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
-    "Data/Performance.csv",
-    "DL _Nite1 Batch.md"
+    "Data/Performance.csv"
   ]
 }
