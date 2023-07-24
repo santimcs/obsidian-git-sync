@@ -12,7 +12,7 @@ SELECT trade, O.name, qty ,price, qty*price AS amount, active, reason, market, t
 SELECT trade, O.name, qty ,price, qty*price AS amount, active, reason, market, target, max, min, buy, hold, sell FROM orders O JOIN consensus C ON O.name  = C.name WHERE active = 2 ORDER BY trade, C.name;
 
 /* Select Order by Name */
-SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'AWC';
+SELECT trade, name, qty ,price, active, reason, market FROM orders WHERE name = 'WHAIR';
 
 SELECT name,fm_date,to_date,fm_price,to_price,max_price,min_price,pct,days,ttl_spread FROM sales WHERE to_date = '2023-06-14' AND name= "AWC";
 
