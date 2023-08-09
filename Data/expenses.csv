@@ -1,333 +1,189 @@
 date,item,amount,kind,type
-2022-01-02,Food,2430,Food,1
-2022-01-06,Pets,780,Pets,8
-2022-01-07,Medicine,1330,Medicine,4
-2022-01-07,Transportation,200,Transportation,5
-2022-01-08,Parent,2020,Parent,7
-2022-01-08,Mother,4120,Mother,9
-2022-01-08,Transportation,150,Transportation,5
-2022-01-09,Food,640,Food,1
-2022-01-10,Food,180,Food,1
-2022-01-10,Pets,7340,Pets,8
-2022-01-11,Pets,3790,Pets,8
-2022-01-12,Food,410,Food,1
-2022-01-12,Food,410,Food,1
-2022-01-12,Pets,1700,Pets,8
-2022-01-14,Books & Software,330,Edutainment,6
-2022-01-16,Yearly Dropbox,4450,Edutainment,6
-2022-01-17,Pets,700,Pets,8
-2022-01-18,Food,460,Food,1
-2022-01-18,Personal Care,1490,Apparel,2
-2022-01-18,Fuel,1160,Transportation,5
-2022-01-19,Pets,1080,Pets,8
-2022-01-20,Medicine,2570,Medicine,4
-2022-01-20,Food,130,Food,1
-2022-01-24,Food,190,Food,1
-2022-01-24,Medicine,610,Medicine,4
-2022-01-25,Food,230,Food,1
-2022-01-25,Transportation,120,Transportation,5
-2022-01-26,Food,240,Food,1
-2022-01-28,Food,980,Food,1
-2022-01-31,Parent,10000,Parent,7
-2022-01-31,Merit Making,10000,Others,6
-2022-01-31,Internet Home,640,Communication,5
-2022-01-31,CCF,600,Luxury,6
-2022-01-31,Packt,340,Edutainment,6
-2022-01-31,Telephone Dtac,320,Communication,5
-2022-01-31,Monthly Prime,190,Edutainment,6
-2022-01-31,Google,170,Edutainment,6
-2022-01-31,Apple,100,Edutainment,6
-2022-01-31,Patreon,70,Edutainment,6
-2022-01-31,Apple,40,Edutainment,6
-2022-02-01,Pets,2930,Pets,8
-2022-02-03,Food,520,Food,1
-2022-02-05,Food,420,Food,1
-2022-02-06,Pets,1120,Pets,8
-2022-02-10,Food,230,Food,1
-2022-02-10,Books & Software,360,Edutainment,6
-2022-02-11,Food,180,Food,1
-2022-02-11,Fuel,1310,Transportation,5
-2022-02-12,Vehicle,520,Transportation,5
-2022-02-15,Books & Software,350,Edutainment,6
-2022-02-17,Pets,2690,Pets,8
-2022-02-18,Medicine,380,Medicine,4
-2022-02-21,Food,980,Food,1
-2022-02-23,Food,940,Food,1
-2022-02-28,Fuel,1360,Transportation,5
-2022-02-28,Parent,10000,Parent,7
-2022-02-28,Internet Home,640,Communication,5
-2022-02-28,CCF,600,Luxury,6
-2022-02-28,Packt,340,Edutainment,6
-2022-02-28,Telephone Dtac,320,Communication,5
-2022-02-28,Monthly Prime,190,Edutainment,6
-2022-02-28,Google,170,Edutainment,6
-2022-02-28,Apple,100,Edutainment,6
-2022-02-28,Patreon,70,Edutainment,6
-2022-02-28,Apple,40,Edutainment,6
-2022-02-28,Apple,400,Edutainment,6
-2022-03-01,Shelter,16800,Shelter,3
-2022-03-03,Food,380,Food,1
-2022-03-07,Food,230,Food,1
-2022-03-07,Books & Software,940,Edutainment,6
-2022-03-09,Transportation,90,Transportation,5
-2022-03-10,Funeral,4000,Others,6
-2022-03-11,Food,1000,Food,1
-2022-03-14,Food,130,Food,1
-2022-03-16,Pets,2690,Pets,8
-2022-03-17,Funeral,30000,Others,6
-2022-03-17,Parent,5000,Parent,7
-2022-03-22,Food,440,Food,1
-2022-03-22,Food,180,Food,1
-2022-03-22,Personal Care,990,Apparel,2
-2022-03-23,Food,180,Food,1
-2022-03-23,Pets,2000,Pets,8
-2022-03-24,Pets,2700,Pets,8
-2022-03-24,Food,240,Food,1
-2022-03-25,Pets,4580,Pets,8
-2022-03-26,Pets,1210,Pets,8
-2022-03-27,Pets,1630,Pets,8
-2022-03-28,Food,180,Food,1
-2022-03-29,Pets,3040,Pets,8
-2022-03-30,Pets,4070,Pets,8
-2022-03-31,Pets,1650,Pets,8
-2022-03-31,Parent,10000,Parent,7
-2022-03-31,Internet Home,640,Communication,5
-2022-03-31,CCF,600,Luxury,6
-2022-03-31,Packt,340,Edutainment,6
-2022-03-31,Telephone Dtac,320,Communication,5
-2022-03-31,Monthly Prime,190,Edutainment,6
-2022-03-31,Google,170,Edutainment,6
-2022-03-31,Apple,100,Edutainment,6
-2022-03-31,Patreon,70,Edutainment,6
-2022-03-31,Apple,40,Edutainment,6
-2022-03-31,Miscellaneous,400,Others,6
-2022-04-04,Food,230,Food,1
-2022-04-04,Fuel,1420,Transportation,5
-2022-04-06,Food,600,Food,1
-2022-04-06,Funeral,1000,Others,6
-2022-04-07,Food,420,Food,1
-2022-04-07,Pets,3250,Pets,8
-2022-04-08,Food,180,Food,1
-2022-04-08,Pets,600,Pets,8
-2022-04-09,Food,430,Food,1
-2022-04-09,Mother,3910,Mother,9
-2022-04-10,Pets,2210,Pets,8
-2022-04-12,True Visions,22800,Communication,5
-2022-04-12,Food,160,Food,1
-2022-04-13,Pets,2110,Pets,8
-2022-04-13,Food,560,Food,1
-2022-04-14,Food,2120,Food,1
-2022-04-15,Food,240,Food,1
-2022-04-15,Personal Care,300,Apparel,2
-2022-04-17,Food,320,Food,1
-2022-04-18,Food,610,Food,1
-2022-04-18,Fuel,1380,Transportation,5
-2022-04-19,Food,200,Food,1
-2022-04-20,Food,300,Food,1
-2022-04-22,Food,300,Food,1
-2022-04-24,Pets,4240,Pets,8
-2022-04-25,Food,300,Food,1
-2022-04-25,Pets,5430,Pets,8
-2022-04-27,Pets,2140,Pets,8
-2022-04-28,Pets,480,Pets,8
-2022-04-29,Food,240,Food,1
-2022-04-30,Parent,10000,Parent,7
-2022-04-30,Internet Home,640,Communication,5
-2022-04-30,CCF,600,Luxury,6
-2022-04-30,Packt,340,Edutainment,6
-2022-04-30,Telephone Dtac,320,Communication,5
-2022-04-30,Monthly Prime,190,Edutainment,6
-2022-04-30,Google,170,Edutainment,6
-2022-04-30,Apple,100,Edutainment,6
-2022-04-30,Patreon,70,Edutainment,6
-2022-04-30,Apple,40,Edutainment,6
-2022-04-30,Pets,200,Pets,8
-2022-05-04,Food,670,Food,1
-2022-05-07,Food,180,Food,1
-2022-05-07,Fuel,1510,Transportation,5
-2022-05-07,Pets,2570,Pets,8
-2022-05-10,Food,430,Food,1
-2022-05-10,Pets,4140,Pets,8
-2022-05-14,Food,240,Food,1
-2022-05-14,Mother,9130,Mother,9
-2022-05-19,Food,200,Food,1
-2022-05-21,Food,260,Food,1
-2022-05-21,Fuel,1600,Transportation,5
-2022-05-21,Mother,430,Mother,9
-2022-05-21,Mother,4860,Mother,9
-2022-05-22,Food,430,Food,1
-2022-05-25,Food,200,Food,1
-2022-05-26,Food,180,Food,1
-2022-05-26,Books & Software,250,Edutainment,6
-2022-05-26,Books & Software,360,Edutainment,6
-2022-05-26,Pets,3730,Pets,8
-2022-05-28,Mother,2880,Mother,9
-2022-05-28,Food,180,Food,1
-2022-05-29,Pets,5190,Pets,8
-2022-05-30,Food,180,Food,1
-2022-05-30,Pets,4180,Pets,8
-2022-05-31,Food,190,Food,1
-2022-05-31,Parent,10000,Parent,7
-2022-05-31,Internet Home,640,Communication,5
-2022-05-31,CCF,600,Luxury,6
-2022-05-31,Packt,340,Edutainment,6
-2022-05-31,Telephone Dtac,320,Communication,5
-2022-05-31,Monthly Prime,190,Edutainment,6
-2022-05-31,Google,170,Edutainment,6
-2022-05-31,Apple,100,Edutainment,6
-2022-05-31,Patreon,70,Edutainment,6
-2022-05-31,Apple,40,Edutainment,6
-2022-06-01,Pets,480,Pets,8
-2022-06-03,Shelter,23200,Shelter,3
-2022-06-03,Food,260,Food,1
-2022-06-03,Personal Care,330,Apparel,2
-2022-06-08,Food,1900,Food,1
-2022-06-08,Fuel,1430,Transportation,5
-2022-06-11,Pets,4440,Pets,8
-2022-06-11,Mother,2350,Mother,9
-2022-06-11,Mother,4460,Mother,9
-2022-06-11,Food,260,Food,1
-2022-06-13,Food,200,Food,1
-2022-06-16,Medicine,6470,Medicine,4
-2022-06-16,Medicine,380,Medicine,4
-2022-06-16,Food,530,Food,1
-2022-06-17,Merit Making,8000,Others,6
-2022-06-18,Food,40,Food,1
-2022-06-18,Merit Making,100,Others,6
-2022-06-18,Transportation,140,Transportation,5
-2022-06-20,Food,110,Food,1
-2022-06-22,Food,420,Food,1
-2022-06-24,Pets,3840,Pets,8
-2022-06-26,Food,460,Food,1
-2022-06-28,Food,800,Food,1
-2022-06-30,Parent,10000,Parent,7
-2022-06-30,Internet Home,640,Communication,5
-2022-06-30,Packt,340,Edutainment,6
-2022-06-30,Telephone Dtac,320,Communication,5
-2022-06-30,Google,170,Edutainment,6
-2022-06-30,Patreon,70,Edutainment,6
-2022-06-30,Netflix,420,Edutainment,6
-2022-07-09,Food,570,Food,1
-2022-07-09,Mother,4200,Mother,9
-2022-07-09,Mother,2850,Mother,9
-2022-07-12,Medicine,2060,Medicine,4
-2022-07-12,Fuel,1470,Transportation,5
-2022-07-25,Food,180,Food,1
-2022-07-26,Food,360,Food,1
-2022-07-29,Food,180,Food,1
-2022-07-29,Personal Care,700,Apparel,2
-2022-07-30,Books & Software,2290,Edutainment,6
-2022-07-31,Parent,10000,Parent,7
-2022-07-31,Internet Home,640,Communication,5
-2022-07-31,Packt,340,Edutainment,6
-2022-07-31,Telephone Dtac,320,Communication,5
-2022-07-31,Google,170,Edutainment,6
-2022-07-31,Apple,100,Edutainment,6
-2022-07-31,Patreon,70,Edutainment,6
-2022-07-31,Apple,40,Edutainment,6
-2022-07-31,Netflix,420,Edutainment,6
-2022-08-02,Food,370,Food,1
-2022-08-02,Merit Making,1000,Others,6
-2022-08-04,Shelter,3200,Shelter,3
-2022-08-05,Food,590,Food,1
-2022-08-06,Mother,6000,Mother,9
-2022-08-09,Plum,24400,Shelter,3
-2022-08-10,Food,4230,Food,1
-2022-08-11,Food,180,Food,1
-2022-08-15,Food,290,Food,1
-2022-08-18,Pets,620,Pets,8
-2022-08-24,Food,150,Food,1
-2022-08-24,Food,180,Food,1
-2022-08-26,Food,180,Food,1
-2022-08-31,Food,450,Food,1
-2022-08-31,Parent,10000,Parent,7
-2022-08-31,Internet Home,640,Communication,5
-2022-08-31,Netflix,420,Edutainment,6
-2022-08-31,Packt,340,Edutainment,6
-2022-08-31,Telephone Dtac,320,Communication,5
-2022-08-31,Google,170,Edutainment,6
-2022-08-31,Apple,100,Edutainment,6
-2022-08-31,Patreon,70,Edutainment,6
-2022-08-31,Apple,40,Edutainment,6
-2022-09-03,Food,180,Food,1
-2022-09-03,Mother,7920,Mother,9
-2022-09-03,Mother,2000,Mother,9
-2022-09-05,Food,360,Food,1
-2022-09-12,Funeral,10000,Others,6
-2022-09-12,Fuel,1330,Transportation,5
-2022-09-15,Transportation,290,Transportation,5
-2022-09-19,Food,620,Food,1
-2022-09-23,Food,370,Food,1
-2022-09-27,Food,180,Food,1
-2022-09-30,Parent,10000,Parent,7
-2022-09-30,Internet Home,640,Communication,5
-2022-09-30,Netflix,420,Edutainment,6
-2022-09-30,Packt,340,Edutainment,6
-2022-09-30,Telephone Dtac,320,Communication,5
-2022-09-30,Google,170,Edutainment,6
-2022-09-30,Apple,100,Edutainment,6
-2022-09-30,Food,70,Food,1
-2022-09-30,Apple,40,Edutainment,6
-2022-10-03,Food,200,Food,1
-2022-10-06,Merit Making,5000,Others,6
-2022-10-06,Pets,4600,Pets,8
-2022-10-08,Mother,3470,Mother,9
-2022-10-08,Food,200,Food,1
-2022-10-08,Books & Software,1960,Edutainment,6
-2022-10-08,Mother,2500,Mother,9
-2022-10-12,Medicine,7920,Medicine,4
-2022-10-17,Food,140,Food,1
-2022-10-21,Transportation,400,Transportation,5
-2022-10-23,Funeral,3000,Others,6
-2022-10-24,Transportation,200,Transportation,5
-2022-10-24,Food,210,Food,1
-2022-10-27,Merit Making,100,Others,6
-2022-10-28,Food,540,Food,1
-2022-10-31,Parent,10000,Parent,7
-2022-10-31,Internet Home,640,Communication,5
-2022-10-31,Netflix,420,Edutainment,6
-2022-10-31,Telephone Dtac,320,Communication,5
-2022-10-31,Google,170,Edutainment,6
-2022-10-31,Apple,100,Edutainment,6
-2022-10-31,Apple,40,Edutainment,6
-2022-10-31,Shelter,29000,Shelter,3
-2022-11-03,Pets,3410,Pets,8
-2022-11-05,Mother,3820,Mother,9
-2022-11-05,Mother,2400,Mother,9
-2022-11-07,Food,280,Food,1
-2022-11-08,Books & Software,2900,Edutainment,6
-2022-11-08,Pets,2880,Pets,8
-2022-11-09,Medicine,11570,Medicine,4
-2022-11-12,Transportation,400,Transportation,5
-2022-11-14,Food,300,Food,1
-2022-11-14,Fuel,1310,Transportation,5
-2022-11-16,Books & Software,1150,Edutainment,6
-2022-11-18,Food,620,Food,1
-2022-11-21,Food,260,Food,1
-2022-11-23,Food,100,Food,1
-2022-11-23,Medicine,2860,Medicine,4
-2022-11-26,Yearly Pluralsight,3500,Edutainment,6
-2022-11-29,Plum,-11500,Shelter,3
-2022-11-30,Parent,10000,Parent,7
-2022-11-30,Internet Home,640,Communication,5
-2022-11-30,Netflix,420,Edutainment,6
-2022-11-30,Telephone Dtac,320,Communication,5
-2022-11-30,Google,170,Edutainment,6
-2022-11-30,Apple,100,Edutainment,6
-2022-11-30,Apple,40,Edutainment,6
-2022-12-06,Pets,4600,Pets,8
-2022-12-07,Food,190,Food,1
-2022-12-17,Food,200,Food,1
-2022-12-17,Mother,7090,Mother,9
-2022-12-19,Food,580,Food,1
-2022-12-23,Food,170,Food,1
-2022-12-30,Pets,4700,Pets,8
-2022-12-31,Food,110,Food,1
-2022-12-31,Personal Care,200,Apparel,2
-2022-12-31,Parent,10000,Parent,7
-2022-12-31,Internet Home,640,Communication,5
-2022-12-31,Netflix,420,Edutainment,6
-2022-12-31,Telephone Dtac,320,Communication,5
-2022-12-31,Google,170,Edutainment,6
-2022-12-31,Apple,100,Edutainment,6
-2022-12-31,Apple,40,Edutainment,6
+2023-01-01,Fuel,1200,Transportation,5
+2023-01-01,Food,120,Food,1
+2023-01-02,Food,1670,Food,1
+2023-01-03,Food,100,Food,1
+2023-01-04,Pets,5670,Pets,8
+2023-01-04,Medicine,10960,Medicine,4
+2023-01-04,Food,280,Food,1
+2023-01-04,Merit Making,100,Others,6
+2023-01-05,Pets,920,Pets,8
+2023-01-05,Plum,10100,Shelter,3
+2023-01-09,Plum,3590,Shelter,3
+2023-01-12,Pets,3770,Pets,8
+2023-01-13,Pets,790,Pets,8
+2023-01-15,Food,240,Food,1
+2023-01-17,Food,100,Food,1
+2023-01-17,Medicine,2560,Medicine,4
+2023-01-19,Food,480,Food,1
+2023-01-19,Books & Software,380,Edutainment,6
+2023-01-22,Food,260,Food,1
+2023-01-22,Merit Making,11000,Others,6
+2023-01-29,Mother,6630,Mother,9
+2023-01-29,Mother,3500,Mother,9
+2023-01-31,Parent,10000,Parent,7
+2023-01-31,Internet Home,640,Communication,5
+2023-01-31,Netflix,420,Edutainment,6
+2023-01-31,Telephone Dtac,320,Communication,5
+2023-01-31,Google,170,Edutainment,6
+2023-01-31,Apple,100,Edutainment,6
+2023-01-31,Apple,40,Edutainment,6
+2023-02-01,Fuel,1320,Transportation,5
+2023-02-02,Food,27200,Food,1
+2023-02-10,Pets,4300,Pets,8
+2023-02-13,Food,280,Food,1
+2023-02-13,Pets,2600,Pets,8
+2023-02-13,Food,15700,Food,1
+2023-02-15,Food,250,Food,1
+2023-02-23,Food,380,Food,1
+2023-02-25,Food,140,Food,1
+2023-02-27,Food,120,Food,1
+2023-02-28,Parent,10000,Parent,7
+2023-02-28,Internet Home,640,Communication,5
+2023-02-28,Netflix,420,Edutainment,6
+2023-02-28,Telephone Dtac,320,Communication,5
+2023-02-28,Google,170,Edutainment,6
+2023-02-28,Apple,100,Edutainment,6
+2023-02-28,Apple,40,Edutainment,6
+2023-03-03,Food,660,Food,1
+2023-03-03,Food,160,Food,1
+2023-03-07,Pets,5190,Pets,8
+2023-03-07,Merit Making,100,Others,6
+2023-03-10,Food,260,Food,1
+2023-03-15,Food,170,Food,1
+2023-03-16,Food,200,Food,1
+2023-03-17,Merit Making,2000,Others,6
+2023-03-17,Fuel,1300,Transportation,5
+2023-03-19,Food,110,Food,1
+2023-03-24,Food,620,Food,1
+2023-03-24,Mother,88000,Mother,9
+2023-03-25,Food,330,Food,1
+2023-03-26,Merit Making,100,Others,6
+2023-03-27,Food,170,Food,1
+2023-03-28,Food,200,Food,1
+2023-03-30,Mother,11670,Mother,9
+2023-03-31,Parent,10000,Parent,7
+2023-03-31,Internet Home,640,Communication,5
+2023-03-31,Netflix,420,Edutainment,6
+2023-03-31,Telephone Dtac,320,Communication,5
+2023-03-31,Google,170,Edutainment,6
+2023-03-31,Apple,100,Edutainment,6
+2023-03-31,Apple,40,Edutainment,6
+2023-03-31,Books & Software,2400,Edutainment,6
+2023-03-31,ChatGPT,720,Edutainment,6
+2023-03-31,Food,1050,Food,1
+2023-04-01,Food,270,Food,1
+2023-04-03,Food,460,Food,1
+2023-04-07,Food,190,Food,1
+2023-04-08,Food,310,Food,1
+2023-04-10,Food,260,Food,1
+2023-04-18,Food,210,Food,1
+2023-04-18,Fuel,1300,Transportation,5
+2023-04-21,Food,120,Food,1
+2023-04-24,Food,160,Food,1
+2023-04-28,Food,190,Food,1
+2023-04-30,Parent,10000,Parent,7
+2023-04-30,Internet Home,640,Communication,5
+2023-04-30,Netflix,420,Edutainment,6
+2023-04-30,Telephone Dtac,320,Communication,5
+2023-04-30,Google,170,Edutainment,6
+2023-04-30,Apple,100,Edutainment,6
+2023-04-30,Apple,40,Edutainment,6
+2023-04-30,ChatGPT,710,Edutainment,6
+2023-04-30,MidJourney,1050,Edutainment,6
+2023-05-02,Food,90,Food,1
+2023-05-02,Pets,3200,Pets,8
+2023-05-04,Transportation,380,Transportation,5
+2023-05-05,Food,610,Food,1
+2023-05-06,Pets,2480,Pets,8
+2023-05-07,Mother,83620,Mother,9
+2023-05-07,Medicine,8440,Medicine,4
+2023-05-09,Pets,930,Pets,8
+2023-05-10,Food,260,Food,1
+2023-05-10,Food,170,Food,1
+2023-05-10,Food,120,Food,1
+2023-05-11,Pets,2300,Pets,8
+2023-05-12,Food,100,Food,1
+2023-05-12,Personal Care,250,Apparel,2
+2023-05-13,Food,370,Food,1
+2023-05-14,Pets,2720,Pets,8
+2023-05-18,Pets,450,Pets,8
+2023-05-19,Food,170,Food,1
+2023-05-24,Fuel,1320,Transportation,5
+2023-05-25,Food,200,Food,1
+2023-05-25,True Visions,22800,Communication,5
+2023-05-25,Mother,7170,Mother,9
+2023-05-26,Pets,340,Pets,8
+2023-05-29,Pets,2590,Pets,8
+2023-05-31,Parent,10000,Parent,7
+2023-05-31,Internet Home,640,Communication,5
+2023-05-31,Netflix,420,Edutainment,6
+2023-05-31,Telephone Dtac,500,Communication,5
+2023-05-31,Google,170,Edutainment,6
+2023-05-31,Apple,140,Edutainment,6
+2023-05-31,Apple,40,Edutainment,6
+2023-05-31,ChatGPT,690,Edutainment,6
+2023-05-31,MidJourney,1050,Edutainment,6
+2023-05-31,Apple,100,Edutainment,6
+2023-06-03,Food,100,Food,1
+2023-06-03,Pets,3740,Pets,8
+2023-06-05,Food,100,Food,1
+2023-06-05,Pets,9150,Pets,8
+2023-06-06,Food,90,Food,1
+2023-06-06,Pets,2260,Pets,8
+2023-06-07,Food,200,Food,1
+2023-06-08,Food,100,Food,1
+2023-06-09,Food,150,Food,1
+2023-06-09,Pets,4360,Pets,8
+2023-06-10,Food,200,Food,1
+2023-06-11,Food,80,Food,1
+2023-06-11,Pets,1700,Pets,8
+2023-06-12,Food,430,Food,1
+2023-06-13,Pets,1690,Pets,8
+2023-06-13,Merit Making,3000,Others,6
+2023-06-21,Fuel,1330,Transportation,5
+2023-06-25,Food,300,Food,1
+2023-06-28,Food,420,Food,1
+2023-06-30,Parent,10000,Parent,7
+2023-06-30,Internet Home,640,Communication,5
+2023-06-30,Netflix,420,Edutainment,6
+2023-06-30,Telephone Dtac,540,Communication,5
+2023-06-30,Google,170,Edutainment,6
+2023-06-30,Apple,150,Edutainment,6
+2023-06-30,Apple,40,Edutainment,6
+2023-06-30,ChatGPT,710,Edutainment,6
+2023-06-30,MidJourney,1050,Edutainment,6
+2023-07-01,Food,160,Food,1
+2023-07-01,Pets,8480,Pets,8
+2023-07-03,Food,200,Food,1
+2023-07-04,Food,160,Food,1
+2023-07-04,Pets,4530,Pets,8
+2023-07-05,Food,100,Food,1
+2023-07-07,Pets,5640,Pets,8
+2023-07-07,Food,110,Food,1
+2023-07-08,Food,340,Food,1
+2023-07-09,Pets,2920,Pets,8
+2023-07-11,Medicine,5660,Medicine,4
+2023-07-16,Mother,30000,Mother,9
+2023-07-19,Food,230,Food,1
+2023-07-22,Mother,37000,Mother,9
+2023-07-22,Fuel,1340,Transportation,5
+2023-07-22,Food,80,Food,1
+2023-07-23,Food,110,Food,1
+2023-07-26,Food,90,Food,1
+2023-07-29,Pets,6330,Pets,8
+2023-07-30,Plum,23650,Shelter,3
+2023-07-31,Food,200,Food,1
+2023-07-31,Parent,10000,Parent,7
+2023-07-31,Internet Home,640,Communication,5
+2023-07-31,Netflix,420,Edutainment,6
+2023-07-31,Telephone Dtac,320,Communication,5
+2023-07-31,Google,170,Edutainment,6
+2023-07-31,Apple,140,Edutainment,6
+2023-07-31,ChatGPT,710,Edutainment,6
+2023-07-31,MidJourney,1050,Edutainment,6
+2023-08-01,Pets,5840,Pets,8
+2023-08-03,Pets,8200,Pets,8
+2023-08-09,Mother,119760,Mother,9
+2023-08-09,Medicine,8640,Medicine,4
+2023-08-09,Food,520,Food,1
