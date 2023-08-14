@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Rename Columns.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Rename Columns.md"
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md"
               }
             }
           }
@@ -205,6 +205,7 @@
   },
   "active": "2153abb971a60bdd",
   "lastOpenFiles": [
+    "Snippets/Rename Columns.md",
     "Snippets/Format single float variable.md",
     "Snippets/Format Currency.md",
     "Port_Lite.md",
@@ -218,7 +219,6 @@
     "Snippets/Groupby.md",
     "DL _Nite3 Batch.md",
     "Snippets/Drop Rows.md",
-    "Snippets/Rename Columns.md",
     "Snippets/Drop Columns.md",
     "Data/titanic3.csv",
     "Data/titanic3.xls",
