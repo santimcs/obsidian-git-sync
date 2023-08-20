@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
+                "file": "crt-summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
+                "file": "crt-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
+                "file": "crt-summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md"
+                "file": "crt-summary.md"
               }
             }
           }
@@ -205,6 +205,8 @@
   },
   "active": "2153abb971a60bdd",
   "lastOpenFiles": [
+    "Candidate.md",
+    "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "Snippets/Rename Columns.md",
     "Snippets/Format single float variable.md",
     "Snippets/Format Currency.md",
@@ -228,11 +230,9 @@
     "Snippets/Query.md",
     "Snippets/Create DF with subset of rows and columns.md",
     "Snippets/Pandas.md",
-    "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "Snippets/Calculate Number of Days.md",
     "Snippets/Calculate Number of Business Days.md",
     "Snippets/Begin and end of month.md",
-    "Snippets/Export DF to CSV Files.md",
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
     "Data/Performance.csv"
