@@ -3,7 +3,7 @@ cd\ruby\port_lite\db
 
 sqlite3 development.sqlite3
 .separator " "
-.schema sales
+.schema stocks
 
 /* Select Order, Consensus by Name */
 SELECT trade, O.name, qty ,price, qty*price AS amount, active, reason, market, target, max, min, buy, hold, sell FROM orders O JOIN consensus C ON O.name  = C.name WHERE O.name = 'KTC';
