@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port_Lite.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port_Lite.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Port_Lite.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Port_Lite.md"
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md"
               }
             }
           }
@@ -205,6 +205,7 @@
   },
   "active": "2153abb971a60bdd",
   "lastOpenFiles": [
+    "Port_Lite.md",
     "Snippets/SQL Update SQLite.md",
     "crt-summary.md",
     "Candidate.md",
@@ -212,7 +213,6 @@
     "Snippets/Rename Columns.md",
     "Snippets/Format single float variable.md",
     "Snippets/Format Currency.md",
-    "Port_Lite.md",
     "Snippets/Format PortLite.md",
     "Snippets/Delete statement.md",
     "Snippets/Filter records.md",
