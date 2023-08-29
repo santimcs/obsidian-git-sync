@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Read CSV.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Read CSV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Read CSV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Data Types Conversion.md"
+                "file": "Snippets/Read CSV.md"
               }
             }
           }
@@ -205,6 +205,7 @@
   },
   "active": "2153abb971a60bdd",
   "lastOpenFiles": [
+    "Snippets/Data Types Conversion.md",
     "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "Port_Lite.md",
     "Snippets/SQL Update SQLite.md",
@@ -232,7 +233,6 @@
     "Snippets/Query.md",
     "Snippets/Create DF with subset of rows and columns.md",
     "Snippets/Pandas.md",
-    "Snippets/Calculate Number of Days.md",
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
     "Data/Performance.csv"
