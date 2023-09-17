@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WL 010-Consensus.md",
+                "file": "WL 020-Price Comparison.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WL 010-Consensus.md",
+                "file": "WL 020-Price Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WL 010-Consensus.md",
+                "file": "WL 020-Price Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WL 010-Consensus.md"
+                "file": "WL 020-Price Comparison.md"
               }
             }
           },
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407e11bf11f51350",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
+    "WL 010-Consensus.md",
     "Snippets/Format PortLite.md",
     "Snippets/Format Currency.md",
     "Snippets/Groupby.md",
@@ -194,7 +195,6 @@
     "Readme.md",
     "Snippets/Query.md",
     "Snippets/Create DF with subset of rows and columns.md",
-    "Snippets/Pandas.md",
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
     "Data/Performance.csv"
