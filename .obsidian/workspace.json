@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01e530862067cab0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,6 +148,16 @@
                 "file": "WL 010-Consensus.md"
               }
             }
+          },
+          {
+            "id": "5d4acb195520de33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -155,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407e11bf11f51350",
+  "active": "01e530862067cab0",
   "lastOpenFiles": [
     "Snippets/Format PortLite.md",
     "Snippets/Format Currency.md",
