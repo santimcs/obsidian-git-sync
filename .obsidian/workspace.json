@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 401.5
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -164,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407e11bf11f51350",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
     "WL 020-Price Comparison.md",
     "WL 010-Consensus.md",
