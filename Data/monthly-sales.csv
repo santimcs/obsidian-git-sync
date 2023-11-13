@@ -1,1 +1,3 @@
 name,sell_year,sell_month,sell_price,buy_price,diff,qty,sell_amt,buy_amt,gross,pct,days
+BCH,2023,11,20.6,21.3,-0.7,2000,41200.0,42600.0,-1400.0,-3.29,769
+BCH,2023,11,20.8,21.3,-0.5,2000,41600.0,42600.0,-1000.0,-2.35,769
