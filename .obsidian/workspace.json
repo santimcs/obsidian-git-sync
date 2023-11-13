@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL __Command Line.md",
+                "file": "Snippets/Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DL __Command Line.md",
+                "file": "Snippets/Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DL __Command Line.md",
+                "file": "Snippets/Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DL __Command Line.md"
+                "file": "Snippets/Query.md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c7cfcad9898bf6",
+  "active": "407e11bf11f51350",
   "lastOpenFiles": [
+    "DL __Command Line.md",
     "WL 020-Price Comparison.md",
     "WL 010-Consensus.md",
     "Snippets/Format PortLite.md",
@@ -193,7 +194,6 @@
     "Data/titanic3.xls",
     "Snippets/Insert records into MySQL table.md",
     "Readme.md",
-    "Snippets/Query.md",
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
     "Data/Performance.csv"
