@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 549.5
   },
   "right": {
     "id": "7600ef31cfffb54e",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Query.md"
+                "file": "Snippets/Convert stock names to string for use in SQL IN criteria.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "407e11bf11f51350",
   "lastOpenFiles": [
+    "Snippets/Query.md",
     "DL __Command Line.md",
     "WL 020-Price Comparison.md",
     "WL 010-Consensus.md",
@@ -193,7 +194,6 @@
     "Data/titanic3.csv",
     "Data/titanic3.xls",
     "Snippets/Insert records into MySQL table.md",
-    "Readme.md",
     "Data/dividend-q1.xlsx",
     "Data/dividend-q1.csv",
     "Data/Performance.csv"
