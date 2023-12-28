@@ -1,3 +1,4 @@
 name,pct,price_today,price_yesterday,status,diff
-SINGER,-3.33,11.6,12.0,B,-0.4
-JMT,-3.81,25.25,26.25,B,-1.0
+PTG,5.42,8.75,8.3,B,0.45
+STA,5.92,16.1,15.2,I,0.9
+TTB,3.73,1.67,1.61,O,0.06
