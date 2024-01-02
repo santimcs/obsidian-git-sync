@@ -16,9 +16,3 @@ ICHI,sSET / SETCLMV,left_only
 ILM,sSET,left_only
 INTUCH,SET50 / SETCLMV / SETHD / SETTHSI,left_only
 KTB,SET50 / SETHD / SETTHSI,left_only
-LHFG,SET,left_only
-PCSGH,SET,left_only
-ROJNA,sSET,left_only
-SAPPE,sSET,left_only
-TTB,SET50 / SETHD / SETTHSI,left_only
-WHAUP,sSET / SETTHSI,left_only
