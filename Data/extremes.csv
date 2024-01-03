@@ -1,4 +1,4 @@
 name,pct,price_today,price_yesterday,status,diff
-PTG,5.42,8.75,8.3,B,0.45
-STA,5.92,16.1,15.2,I,0.9
-TTB,3.73,1.67,1.61,O,0.06
+DIF,3.18,8.1,7.85,B,0.25
+STA,3.07,16.8,16.3,B,0.5
+AWC,5.49,3.84,3.64,I,0.2
