@@ -1,8 +1,2 @@
 name,pct,price_today,price_yesterday,status,diff
-GVREIT,5.88,6.3,5.95,B,0.35
-DIF,5.36,8.85,8.4,B,0.45
-WHAIR,5.26,6.0,5.7,B,0.3
-JASIF,4.65,6.75,6.45,B,0.3
-TFFIF,3.6,7.2,6.95,B,0.25
-SINGER,-3.2,12.1,12.5,B,-0.4
-HANA,-3.32,51.0,52.75,O,-1.75
+CPNREIT,-3.36,11.5,11.9,B,-0.4
