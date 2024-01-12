@@ -1,3 +1,4 @@
 name,pct,price_today,price_yesterday,status,diff
-AH,3.67,28.25,27.25,B,1.0
-BH,3.07,235.0,228.0,O,7.0
+JMT,-3.67,26.25,27.25,B,-1.0
+SINGER,-6.78,11.0,11.8,B,-0.8
+JMART,-5.08,16.8,17.7,I,-0.9
