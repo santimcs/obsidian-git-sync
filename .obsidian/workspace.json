@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Sort table with nlargest, nsmallest.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Sort table with nlargest, nsmallest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "Snippets/Sort table with nlargest, nsmallest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Data Types Conversion.md"
+                "file": "Snippets/Sort table with nlargest, nsmallest.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "407e11bf11f51350",
   "lastOpenFiles": [
+    "Snippets/Data Types Conversion.md",
     "Snippets/Query.md",
     "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "DL __Command Line.md",
@@ -178,7 +179,6 @@
     "Snippets/Groupby.md",
     "Snippets/Delete statement.md",
     "Snippets/Read CSV.md",
-    "Snippets/Data Types Conversion.md",
     "Port_Lite.md",
     "Snippets/SQL Update SQLite.md",
     "crt-summary.md",
