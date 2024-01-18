@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Query.md",
+                "file": "Snippets/Data Types Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Query.md"
+                "file": "Snippets/Data Types Conversion.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "407e11bf11f51350",
   "lastOpenFiles": [
-    "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "Snippets/Query.md",
+    "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "DL __Command Line.md",
     "WL 020-Price Comparison.md",
     "WL 010-Consensus.md",
