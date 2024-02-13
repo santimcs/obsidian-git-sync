@@ -14,8 +14,6 @@ HANA,SET100 / SETTHSI,left_only
 ICHI,sSET / SETCLMV,left_only
 ILM,sSET,left_only
 INTUCH,SET50 / SETCLMV / SETHD / SETTHSI,left_only
-LHFG,SET,left_only
-PCSGH,SET,left_only
 PLANB,SET100 / SETTHSI,left_only
 RBF,SET100 / SETCLMV / SETWB,left_only
 ROJNA,sSET,left_only
