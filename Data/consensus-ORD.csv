@@ -1,24 +1,24 @@
 name,market,merge_1
 ADVANC,SET50 / SETHD / SETTHSI,left_only
+ADVANC,SET50 / SETHD / SETTHSI,left_only
+ASIAN,sSET / SETTHSI,left_only
 ASW,sSET,left_only
 BBL,SET50 / SETHD / SETTHSI,left_only
-BDMS,SET50 / SETCLMV / SETTHSI / SETWB,left_only
-BH,SET50 / SETCLMV / SETWB,left_only
-CK,SET100 / SETCLMV / SETTHSI,left_only
+BCPG,SET100 / SETCLMV / SETHD / SETTHSI,left_only
+BEM,SET50 / SETTHSI / SETWB,left_only
+CBG,SET50 / SETCLMV / SETWB,left_only
+CPF,SET50 / SETCLMV / SETHD / SETTHSI / SETWB,left_only
 CPN,SET50 / SETTHSI,left_only
 DELTA,SET,left_only
-EGCO,SET50 / SETCLMV / SETHD / SETTHSI,left_only
 GPSC,SET50 / SETTHSI,left_only
 GULF,SET50 / SETCLMV / SETTHSI,left_only
-HANA,SET100 / SETTHSI,left_only
 ICHI,sSET / SETCLMV,left_only
-ILM,sSET,left_only
 INTUCH,SET50 / SETCLMV / SETHD / SETTHSI,left_only
+MTC,SET50 / SETTHSI,left_only
 PLANB,SET100 / SETTHSI,left_only
-RBF,SET100 / SETCLMV / SETWB,left_only
+PTT,SET50 / SETCLMV / SETHD / SETTHSI,left_only
 ROJNA,sSET,left_only
 SAPPE,sSET,left_only
-SAWAD,SET50,left_only
-SCB,SET50 / SETCLMV / SETTHSI,left_only
+SJWD,sSET / SETTHSI,left_only
+TCAP,SET100 / SETHD,left_only
 TTB,SET50 / SETHD / SETTHSI,left_only
-WHAUP,sSET / SETTHSI,left_only
