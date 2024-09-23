@@ -11,12 +11,8 @@
             "id": "407e11bf11f51350",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-09-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407e11bf11f51350",
+  "active": "a0e3b3f4f6414141",
   "lastOpenFiles": [
-    "Snippets/Data Types Conversion.md",
     "2024-09-23.md",
+    "Snippets/Data Types Conversion.md",
     "Snippets/Sort table with nlargest, nsmallest.md",
     "Snippets/Query.md",
     "Snippets/Convert stock names to string for use in SQL IN criteria.md",
