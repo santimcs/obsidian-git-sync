@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "2024-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Data Types Conversion.md",
+                "file": "2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Data Types Conversion.md"
+                "file": "2024-09-23.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "407e11bf11f51350",
   "lastOpenFiles": [
-    "Snippets/Sort table with nlargest, nsmallest.md",
     "Snippets/Data Types Conversion.md",
+    "2024-09-23.md",
+    "Snippets/Sort table with nlargest, nsmallest.md",
     "Snippets/Query.md",
     "Snippets/Convert stock names to string for use in SQL IN criteria.md",
     "DL __Command Line.md",
@@ -193,7 +194,6 @@
     "Untitled.md",
     "DL _Nite3 Batch.md",
     "Snippets/Drop Rows.md",
-    "Snippets/Drop Columns.md",
     "Data/titanic3.csv",
     "Data/titanic3.xls",
     "Data/dividend-q1.xlsx",
