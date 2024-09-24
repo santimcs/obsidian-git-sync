@@ -11,8 +11,12 @@
             "id": "407e11bf11f51350",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-09-23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-09-23.md"
+              }
             }
           },
           {
@@ -159,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407e11bf11f51350",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
+    "Daily",
     "2024-09-24.md",
-    "2024-09-23.md",
+    "Daily/2024-09-23.md",
     "Snippets/Data Types Conversion.md",
     "Snippets/Sort table with nlargest, nsmallest.md",
     "Snippets/Query.md",
@@ -186,7 +194,6 @@
     "Portfolio.md",
     "Snippets/Combine values into array & print.md",
     "Untitled.md",
-    "DL _Nite3 Batch.md",
     "Data/titanic3.csv",
     "Data/titanic3.xls",
     "Data/dividend-q1.xlsx",
