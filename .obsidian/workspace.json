@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-09-23.md",
+                "file": "Daily/2024-09-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-23.md",
+                "file": "Daily/2024-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-09-23.md",
+                "file": "Daily/2024-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-09-23.md"
+                "file": "Daily/2024-09-24.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "407e11bf11f51350",
   "lastOpenFiles": [
-    "Daily/2024-09-24.md",
     "Daily/2024-09-23.md",
+    "Daily/2024-09-24.md",
     "Daily",
     "Snippets/Data Types Conversion.md",
     "Snippets/Sort table with nlargest, nsmallest.md",
