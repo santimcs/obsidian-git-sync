@@ -14,11 +14,3 @@ GPSC,SET50 / SETTHSI,left_only
 GULF,SET50 / SETCLMV / SETTHSI,left_only
 ICHI,sSET / SETCLMV,left_only
 INTUCH,SET50 / SETCLMV / SETHD / SETTHSI,left_only
-MTC,SET50 / SETTHSI,left_only
-PLANB,SET100 / SETTHSI,left_only
-PTT,SET50 / SETCLMV / SETHD / SETTHSI,left_only
-ROJNA,sSET,left_only
-SAPPE,sSET,left_only
-SJWD,sSET / SETTHSI,left_only
-TCAP,SET100 / SETHD,left_only
-TTB,SET50 / SETHD / SETTHSI,left_only
