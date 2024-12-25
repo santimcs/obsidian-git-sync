@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Untitled/\" ",
+                "query": "path:\"Untitled 3/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,8 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407e11bf11f51350",
+  "active": "92c7cfcad9898bf6",
   "lastOpenFiles": [
+    "New Comp",
+    "Untitled 3/Untitled",
+    "Untitled 3",
     "Untitled 2",
     "Untitled 1",
     "Untitled/Untitled",
@@ -221,8 +224,6 @@
     "Portfolio.md",
     "Data/titanic3.csv",
     "Data/titanic3.xls",
-    "Data/dividend-q1.xlsx",
-    "Data/dividend-q1.csv",
-    "Data/Performance.csv"
+    "Data/dividend-q1.xlsx"
   ]
 }
