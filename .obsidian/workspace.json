@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-09-23.md",
+                "file": "2024-12-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-09-23"
+              "title": "2024-12-25"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sync",
+                "query": "path:\"Untitled/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-23.md",
+                "file": "2024-12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-09-23"
+              "title": "Backlinks for 2024-12-25"
             }
           },
           {
@@ -188,9 +188,14 @@
   },
   "active": "fb9aa15963fbc1ec",
   "lastOpenFiles": [
+    "Untitled/Untitled",
+    "Untitled",
+    "Untitled 1.canvas",
+    "2024-12-25.md",
+    "Untitled.canvas",
+    "Daily/2024-09-23.md",
     "Daily/2024-09-24.md",
     "2024-09-30.md",
-    "Daily/2024-09-23.md",
     "Daily",
     "Snippets/Data Types Conversion.md",
     "Snippets/Sort table with nlargest, nsmallest.md",
@@ -213,8 +218,6 @@
     "Snippets/Filter records.md",
     "Snippets/Classify by Stock Market.md",
     "Portfolio.md",
-    "Snippets/Combine values into array & print.md",
-    "Untitled.md",
     "Data/titanic3.csv",
     "Data/titanic3.xls",
     "Data/dividend-q1.xlsx",
