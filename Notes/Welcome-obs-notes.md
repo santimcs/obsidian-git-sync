@@ -1,0 +1,1 @@
+Newly create under folder obsidian-git-sync and copy data from Evernote folder before delete so that all obsidian is under obsidian-git-sync.
