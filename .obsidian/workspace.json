@@ -188,6 +188,7 @@
   },
   "active": "407e11bf11f51350",
   "lastOpenFiles": [
+    "Daily/Welcome-obs-daily.md",
     "Daily/Daily/Welcome-obs-daily.md",
     "Daily/2024-09-23.md",
     "Python/Installation.md",
@@ -223,7 +224,6 @@
     "Snippets/Rename Columns.md",
     "Snippets/Format single float variable.md",
     "Snippets/Filter records.md",
-    "Snippets/Classify by Stock Market.md",
     "Data/titanic3.csv",
     "Data/titanic3.xls"
   ]
